@@ -1,0 +1,2500 @@
+ID_Pesanan,Kategori_Gender,Lini_Produk,Nama_Produk,Ukuran,Unit_Terjual,Harga_Eceran_Maksimum,Diskon_Diterapkan,Pendapatan,Tanggal_Pesanan,Saluran_Penjualan,Wilayah,Keuntungan
+2000.0,Anak,Latihan,SuperRep Go,M,,,0.47,0.0,3/9/2024,Daring,bengaluru,-770.45
+2001.0,Wanita,Sepak Bola,Tiempo Legend,M,3.0,4957.93,,0.0,7/9/2024,Ritel,Hyd,-112.53
+2002.0,Wanita,Sepak Bola,Premier III,M,4.0,,,0.0,,Ritel,Mumbai,3337.34
+2003.0,Anak,Gaya Hidup,Blazer Mid,L,,9673.57,,0.0,4/10/2024,Daring,Pune,3376.85
+2004.0,Anak,Lari,React Infinity,XL,,,,0.0,9/12/2024,Ritel,Delhi,187.89
+2005.0,Wanita,Latihan,Flex Trainer,M,1.0,7363.96,,0.0,,Ritel,Delhi,1415.98
+2006.0,Pria,Latihan,SuperRep Go,M,,6819.78,,0.0,4/6/2025,Daring,Bangalore,1802.09
+2007.0,Anak,Latihan,SuperRep Go,M,1.0,,0.32,0.0,,Ritel,Bangalore,2928.36
+2008.0,Wanita,Sepak Bola,Premier III,11,-1.0,,,0.0,11/10/2024,Daring,Hyderabad,-731.18
+2009.0,Pria,Sepak Bola,Mercurial Superfly,M,4.0,,,0.0,,Daring,Pune,3929.61
+2010.0,Anak,Gaya Hidup,Waffle One,L,1.0,7949.83,,0.0,1/16/2025,Daring,Pune,1965.56
+2011.0,Wanita,Latihan,Flex Trainer,L,-1.0,9586.08,,0.0,,Ritel,Hyd,1667.08
+2018.0,Anak,Gaya Hidup,Blazer Mid,,-1.0,,0.86,0.0,13-11-2024,Daring,Delhi,2109.48
+2013.0,Anak,Latihan,SuperRep Go,,,9671.05,,0.0,19-09-2024,Daring,hyderbad,299.34
+2014.0,Wanita,Lari,React Infinity,11,,,,0.0,4/12/2025,Daring,Bangalore,-1044.4
+2015.0,Anak,Basket,Air Jordan,,,3285.52,,0.0,31-05-2025,Ritel,Kolkata,1193.21
+2016.0,Wanita,Basket,Air Jordan,M,1.0,9871.75,0.3,6910.22,,Ritel,hyderbad,2452.69
+2017.0,Wanita,Basket,Air Jordan,9,4.0,,,0.0,17-03-2025,Ritel,Delhi,1946.24
+2018.0,Pria,Latihan,Metcon 7,XL,0.0,,1.17,0.0,,Daring,bengaluru,-966.89
+2019.0,Anak,Lari,Air Zoom,6,0.0,3424.06,0.32,0.0,1/17/2025,Daring,Hyderabad,1915.24
+2020.0,Anak,Sepak Bola,Tiempo Legend,L,-1.0,,0.67,0.0,28-03-2025,Ritel,Mumbai,439.96
+2021.0,Pria,Lari,Free RN,L,-1.0,7086.7,0.66,-2409.48,11/19/2024,Ritel,Hyd,-1120.49
+2022.0,Wanita,Sepak Bola,Premier III,M,,,,0.0,9/24/2024,Daring,Pune,3427.16
+2023.0,Pria,Gaya Hidup,Waffle One,M,,5003.95,,0.0,10/1/2025,Daring,Mumbai,1498.37
+2024.0,Anak,Latihan,SuperRep Go,XL,0.0,,0.5,0.0,28-12-2024,Ritel,Bangalore,1842.35
+2025.0,Wanita,Basket,Kyrie Flytrap,M,3.0,9820.5,,0.0,,Ritel,Mumbai,1900.15
+2026.0,Anak,Gaya Hidup,Blazer Mid,XL,1.0,,0.16,0.0,8/10/2024,Ritel,Kolkata,2301.64
+2027.0,Pria,Basket,Zoom Freak,XL,,,0.22,0.0,,Daring,Pune,-138.74
+2028.0,Pria,Latihan,Flex Trainer,12,,3270.23,,0.0,,Ritel,Delhi,-946.86
+2029.0,Pria,Latihan,ZoomX Invincible,12,0.0,,,0.0,10/28/2023,Daring,Bangalore,-185.67
+2030.0,Pria,Sepak Bola,Phantom GT,XL,,,1.05,0.0,7/14/2025,Ritel,Hyd,-122.93
+2031.0,Pria,Sepak Bola,Premier III,,4.0,3493.04,0.82,2514.99,5/9/2024,Daring,Delhi,350.7
+2032.0,Wanita,Gaya Hidup,Blazer Mid,XL,1.0,,1.07,0.0,11/4/2025,Ritel,Mumbai,-555.16
+2033.0,Pria,Sepak Bola,Mercurial Superfly,XL,-1.0,,,0.0,,Ritel,Kolkata,-1005.71
+2034.0,Pria,Basket,Air Jordan,6,,6235.71,,0.0,30-04-2025,Ritel,Delhi,-267.37
+2035.0,Anak,Basket,Zoom Freak,,4.0,,0.38,0.0,17-11-2024,Daring,Bangalore,2914.83
+2036.0,Pria,Latihan,Metcon 7,,3.0,,,0.0,15-02-2025,Ritel,Bangalore,-143.8
+2037.0,Anak,Lari,Pegasus Turbo,7,3.0,5653.14,1.01,-169.59,,Ritel,Pune,2776.96
+2038.0,Anak,Lari,Free RN,,0.0,,0.83,0.0,,Daring,Delhi,1163.21
+2039.0,Wanita,Latihan,Flex Trainer,M,,2767.7,0.63,0.0,22-04-2025,Ritel,hyderbad,-336.3
+2002.0,Wanita,Basket,Zoom Freak,XL,3.0,5075.22,,0.0,7/3/2025,Ritel,Delhi,145.08
+2041.0,Anak,Sepak Bola,Tiempo Legend,12,,5553.88,,0.0,3/5/2025,Daring,Hyd,2371.66
+2042.0,Wanita,Basket,Kyrie Flytrap,L,,,,0.0,4/19/2025,Daring,hyderbad,-862.16
+2043.0,Pria,Sepak Bola,Premier III,XL,,3492.89,0.77,0.0,5/2/2024,Ritel,Delhi,3770.75
+2044.0,Anak,Latihan,SuperRep Go,,,,,0.0,9/6/2023,Daring,Delhi,2174.71
+2045.0,Anak,Gaya Hidup,Dunk Low,XL,4.0,,,0.0,4/6/2025,Ritel,Delhi,1833.94
+2046.0,Anak,Lari,Air Zoom,12,,,1.04,0.0,,Daring,Kolkata,1284.33
+2047.0,Wanita,Latihan,SuperRep Go,10,1.0,8577.75,,0.0,6/13/2024,Ritel,Bangalore,2888.68
+2048.0,Wanita,Basket,Air Jordan,XL,,,,0.0,27-10-2024,Daring,Bangalore,2875.86
+2049.0,Anak,Sepak Bola,Tiempo Legend,L,1.0,7767.2,,0.0,,Ritel,Pune,311.48
+2050.0,Pria,Lari,Air Zoom,L,1.0,,0.57,0.0,,Ritel,Kolkata,682.12
+2051.0,Wanita,Basket,Air Jordan,XL,,,0.37,0.0,1/5/2024,Ritel,Delhi,3135.98
+2052.0,Pria,Latihan,Flex Trainer,10,3.0,9155.96,,0.0,10/8/2024,Ritel,Pune,2184.8
+2053.0,Pria,Gaya Hidup,Air Force 1,XL,3.0,6009.58,,0.0,10/2/2024,Daring,Delhi,3384.92
+2054.0,Wanita,Latihan,Flex Trainer,11,-1.0,,,0.0,6/23/2025,Daring,Mumbai,-549.76
+2055.0,Pria,Basket,Kyrie Flytrap,L,,,,0.0,26-10-2024,Daring,hyderbad,-1078.76
+2056.0,Pria,Lari,React Infinity,L,3.0,,,0.0,5/31/2024,Ritel,Bangalore,-244.44
+2048.0,Pria,Gaya Hidup,Waffle One,M,3.0,6216.29,0.94,1118.93,9/14/2024,Daring,Mumbai,-642.02
+2058.0,Wanita,Latihan,Flex Trainer,11,,4985.92,,0.0,,Daring,Kolkata,361.54
+2059.0,Anak,Sepak Bola,Phantom GT,,-1.0,9507.54,,0.0,12/27/2023,Ritel,Delhi,291.28
+2060.0,Pria,Gaya Hidup,Waffle One,L,2.0,7979.26,,0.0,7/11/2024,Daring,bengaluru,2821.59
+2061.0,Wanita,Basket,LeBron 20,L,,,,0.0,10/9/2024,Daring,Mumbai,-501.68
+2062.0,Pria,Basket,Air Jordan,,2.0,,,0.0,6/6/2025,Daring,Bangalore,1823.91
+2063.0,Wanita,Basket,Air Jordan,M,1.0,9751.0,0.16,8190.84,6/9/2024,Ritel,Pune,1130.31
+2064.0,Anak,Lari,React Infinity,L,2.0,7557.71,,0.0,3/2/2025,Daring,Bangalore,3277.44
+2065.0,Wanita,Gaya Hidup,Waffle One,10,,,0.78,0.0,2/11/2024,Ritel,Hyd,21.58
+2066.0,Pria,Sepak Bola,Phantom GT,XL,-1.0,5259.05,,0.0,12/10/2024,Daring,Mumbai,1022.82
+2067.0,Anak,Basket,LeBron 20,L,4.0,3588.38,,0.0,6/5/2025,Daring,Kolkata,161.5
+2068.0,Pria,Lari,Free RN,,4.0,2553.29,,0.0,12/5/2024,Ritel,Mumbai,984.9
+2069.0,Wanita,Latihan,SuperRep Go,,,7502.24,,0.0,7/14/2025,Daring,Pune,3554.58
+2070.0,Anak,Lari,React Infinity,L,,,,0.0,,Ritel,Mumbai,1112.43
+2071.0,Anak,Gaya Hidup,Blazer Mid,M,3.0,7849.81,0.49,12010.21,1/12/2025,Ritel,Pune,-882.96
+2072.0,Pria,Latihan,Flex Trainer,,3.0,,,0.0,,Ritel,Pune,3639.2
+2073.0,Wanita,Gaya Hidup,Blazer Mid,12,4.0,,0.85,0.0,3/11/2024,Daring,Hyd,443.86
+2074.0,Pria,Latihan,Flex Trainer,L,-1.0,,0.57,0.0,,Daring,Kolkata,1958.47
+2075.0,Anak,Basket,Air Jordan,L,4.0,4251.74,,0.0,7/14/2025,Daring,Pune,2345.35
+2076.0,Wanita,Latihan,ZoomX Invincible,11,,,,0.0,13-10-2024,Ritel,bengaluru,2011.25
+2077.0,Pria,Latihan,ZoomX Invincible,L,,,,0.0,11/21/2023,Daring,Pune,3332.66
+2078.0,Wanita,Basket,LeBron 20,,0.0,6970.47,,0.0,,Daring,Mumbai,262.79
+2079.0,Pria,Lari,Pegasus Turbo,XL,-1.0,4322.06,,0.0,1/19/2025,Daring,bengaluru,279.78
+2080.0,Pria,Gaya Hidup,Blazer Mid,L,,,,0.0,3/31/2025,Daring,Bangalore,-1005.89
+2081.0,Pria,Latihan,ZoomX Invincible,L,,,,0.0,,Daring,Mumbai,2810.49
+2028.0,Pria,Lari,Free RN,,-1.0,,0.21,0.0,2/14/2024,Daring,Hyderabad,3303.01
+2083.0,Pria,Lari,Free RN,,,9291.74,,0.0,14-10-2024,Ritel,Delhi,-981.21
+2084.0,Pria,Latihan,Metcon 7,M,2.0,,,0.0,12/24/2023,Daring,Mumbai,408.39
+2085.0,Pria,Basket,Kyrie Flytrap,,,7561.85,,0.0,12/17/2024,Ritel,Kolkata,98.72
+2086.0,Pria,Sepak Bola,Mercurial Superfly,L,0.0,,0.45,0.0,10/11/2024,Daring,Kolkata,1742.66
+2087.0,Anak,Basket,Zoom Freak,,,4656.28,,0.0,11/1/2024,Daring,Kolkata,3777.5
+2088.0,Wanita,Lari,Free RN,XL,4.0,,,0.0,26-04-2025,Daring,Bangalore,2702.93
+2089.0,Wanita,Latihan,Flex Trainer,L,2.0,6874.77,0.6,5499.82,2/12/2024,Daring,Mumbai,-1076.66
+2090.0,Anak,Gaya Hidup,Dunk Low,8,,,,0.0,,Ritel,Bangalore,163.15
+2091.0,Anak,Lari,Air Zoom,11,,9246.88,,0.0,,Ritel,Mumbai,1917.55
+2092.0,Anak,Basket,Zoom Freak,XL,2.0,,1.13,0.0,,Daring,Delhi,207.2
+2093.0,Pria,Lari,Free RN,XL,0.0,,0.29,0.0,,Daring,Kolkata,-146.73
+2094.0,Anak,Latihan,Flex Trainer,10,1.0,4276.36,,0.0,10/11/2024,Ritel,Delhi,2974.58
+2095.0,Pria,Gaya Hidup,Waffle One,M,,,,0.0,16-10-2024,Daring,Delhi,880.57
+2096.0,Pria,Lari,Pegasus Turbo,XL,2.0,,,0.0,24-12-2024,Daring,Kolkata,288.66
+2097.0,Wanita,Latihan,ZoomX Invincible,XL,,7978.89,,0.0,,Daring,Bangalore,769.05
+2098.0,Pria,Latihan,ZoomX Invincible,L,,5690.69,0.69,0.0,1/24/2024,Daring,hyderbad,98.3
+2099.0,Anak,Sepak Bola,Mercurial Superfly,M,2.0,,0.32,0.0,1/2/2025,Ritel,Mumbai,360.97
+2100.0,Anak,Sepak Bola,Phantom GT,8,1.0,5937.52,,0.0,7/11/2025,Ritel,Mumbai,2287.57
+2101.0,Anak,Lari,Free RN,XL,,2010.07,,0.0,7/3/2025,Daring,Hyderabad,3398.01
+2102.0,Wanita,Sepak Bola,Mercurial Superfly,XL,-1.0,,0.77,0.0,10/4/2025,Daring,Pune,284.17
+2103.0,Wanita,Basket,LeBron 20,XL,-1.0,6777.88,,0.0,1/8/2025,Daring,Kolkata,469.61
+2104.0,Pria,Basket,Kyrie Flytrap,,,,,0.0,,Ritel,Delhi,2905.91
+2105.0,Anak,Latihan,Metcon 7,,2.0,5744.7,,0.0,17-11-2024,Ritel,Mumbai,1716.04
+2106.0,Wanita,Lari,Free RN,,,,,0.0,,Ritel,bengaluru,76.95
+2107.0,Wanita,Lari,React Infinity,M,4.0,,,0.0,8/30/2024,Daring,Hyd,-184.69
+2108.0,Anak,Gaya Hidup,Air Force 1,XL,,,0.27,0.0,15-11-2024,Ritel,Mumbai,-338.77
+2109.0,Anak,Basket,Zoom Freak,M,0.0,,,0.0,29-01-2025,Ritel,Kolkata,3791.88
+2110.0,Anak,Lari,Air Zoom,12,1.0,,0.42,0.0,12/25/2024,Ritel,Pune,-259.29
+2111.0,Pria,Gaya Hidup,Waffle One,,,,1.14,0.0,11/21/2024,Ritel,bengaluru,1326.67
+2112.0,Wanita,Latihan,Metcon 7,,,2201.54,,0.0,,Ritel,bengaluru,697.42
+2113.0,Wanita,Basket,Air Jordan,XL,,3939.34,,0.0,12/19/2023,Ritel,Pune,2918.93
+2114.0,Wanita,Latihan,Flex Trainer,XL,1.0,3167.33,0.53,1488.65,,Ritel,Pune,1567.37
+2115.0,Anak,Sepak Bola,Phantom GT,6,2.0,7607.45,,0.0,,Daring,Kolkata,1969.03
+2116.0,Wanita,Basket,LeBron 20,,,4038.32,1.13,0.0,8/27/2024,Daring,Hyderabad,2088.55
+2117.0,Wanita,Latihan,SuperRep Go,L,0.0,7645.96,,0.0,10/30/2024,Daring,Pune,2037.43
+2118.0,Anak,Basket,Zoom Freak,XL,2.0,8426.54,,0.0,9/21/2023,Daring,hyderbad,2696.85
+2119.0,Wanita,Latihan,Metcon 7,11,-1.0,,0.41,0.0,5/4/2025,Ritel,Kolkata,2887.81
+2120.0,Pria,Sepak Bola,Phantom GT,12,,,,0.0,14-12-2024,Ritel,Pune,-328.0
+2000.0,Anak,Lari,React Infinity,M,-1.0,,,0.0,11/20/2023,Ritel,Kolkata,929.75
+2122.0,Anak,Sepak Bola,Mercurial Superfly,,0.0,,,0.0,,Ritel,bengaluru,1078.48
+2123.0,Pria,Lari,Air Zoom,L,,,,0.0,15-09-2024,Ritel,Hyd,2195.52
+2124.0,Anak,Basket,Kyrie Flytrap,L,,6436.11,1.24,0.0,4/7/2025,Daring,Kolkata,432.04
+2125.0,Wanita,Sepak Bola,Tiempo Legend,M,,,,0.0,10/12/2024,Ritel,Hyderabad,1051.22
+2126.0,Anak,Lari,Pegasus Turbo,L,-1.0,5399.58,,0.0,12/14/2024,Ritel,Pune,2508.34
+2127.0,Pria,Latihan,Metcon 7,L,-1.0,4020.5,,0.0,8/19/2023,Daring,Mumbai,3718.37
+2128.0,Wanita,Basket,LeBron 20,L,,8750.71,,0.0,,Ritel,Bangalore,1411.29
+2129.0,Pria,Basket,Zoom Freak,9,,,,0.0,,Ritel,Delhi,841.4
+2130.0,Pria,Sepak Bola,Premier III,10,3.0,,0.24,0.0,14-09-2024,Daring,bengaluru,2962.75
+2131.0,Anak,Lari,Free RN,XL,,5561.82,,0.0,,Ritel,Mumbai,2227.48
+2132.0,Pria,Lari,Free RN,L,2.0,,,0.0,,Daring,Delhi,3882.22
+2133.0,Pria,Latihan,Metcon 7,XL,,6789.53,,0.0,10/10/2024,Ritel,Pune,-166.81
+2134.0,Pria,Latihan,ZoomX Invincible,M,,4738.62,,0.0,6/8/2024,Daring,Hyderabad,1009.28
+2135.0,Pria,Basket,Zoom Freak,L,2.0,9106.61,0.74,4735.44,11/3/2024,Ritel,hyderbad,2422.38
+2136.0,Anak,Latihan,ZoomX Invincible,L,1.0,,,0.0,9/15/2024,Daring,Pune,3672.24
+2137.0,Pria,Sepak Bola,Phantom GT,,0.0,5222.02,0.95,0.0,1/12/2025,Daring,Delhi,1796.76
+2138.0,Pria,Lari,Pegasus Turbo,11,2.0,8055.2,,0.0,14-06-2025,Daring,Mumbai,1840.09
+2139.0,Wanita,Basket,Air Jordan,M,,,,0.0,6/19/2025,Ritel,Mumbai,-334.52
+2140.0,Pria,Basket,Zoom Freak,M,,6765.74,,0.0,28-04-2025,Daring,Bangalore,-875.45
+2141.0,Anak,Sepak Bola,Tiempo Legend,,,,1.1,0.0,11/22/2023,Ritel,Kolkata,-1032.47
+2142.0,Anak,Sepak Bola,Mercurial Superfly,,,,,0.0,10/3/2024,Ritel,Kolkata,-995.59
+2143.0,Anak,Latihan,ZoomX Invincible,L,-1.0,,,0.0,3/10/2025,Daring,Delhi,1006.66
+2144.0,Wanita,Gaya Hidup,Waffle One,,4.0,,,0.0,30-03-2025,Daring,Kolkata,2385.1
+2145.0,Pria,Gaya Hidup,Blazer Mid,6,0.0,,0.67,0.0,7/30/2024,Daring,Bangalore,1335.45
+2146.0,Anak,Basket,Air Jordan,XL,,,1.12,0.0,2/15/2025,Ritel,Mumbai,-908.85
+2147.0,Wanita,Sepak Bola,Phantom GT,XL,-1.0,,,0.0,9/14/2024,Daring,Hyderabad,-426.53
+2148.0,Pria,Basket,Kyrie Flytrap,,,,,0.0,6/19/2025,Daring,Hyd,520.55
+2149.0,Wanita,Lari,Pegasus Turbo,,,,,0.0,5/20/2025,Daring,Kolkata,-595.69
+2150.0,Wanita,Basket,LeBron 20,M,2.0,3313.21,0.48,3445.74,6/7/2025,Daring,bengaluru,3221.62
+2151.0,Anak,Sepak Bola,Tiempo Legend,L,4.0,5619.75,,0.0,5/27/2025,Daring,bengaluru,2000.85
+2152.0,Wanita,Lari,Free RN,8,,,,0.0,,Daring,bengaluru,3819.41
+2153.0,Pria,Lari,React Infinity,,0.0,,0.09,0.0,8/18/2024,Ritel,Pune,1246.58
+2154.0,Anak,Gaya Hidup,Blazer Mid,XL,,2963.16,,0.0,4/1/2025,Daring,Bangalore,2381.85
+2155.0,Pria,Sepak Bola,Phantom GT,,3.0,,,0.0,,Daring,hyderbad,1475.15
+2156.0,Pria,Sepak Bola,Tiempo Legend,M,0.0,,,0.0,31-08-2024,Daring,Pune,-286.07
+2157.0,Anak,Sepak Bola,Premier III,,1.0,,,0.0,4/29/2025,Daring,Delhi,-701.01
+2158.0,Wanita,Lari,React Infinity,M,-1.0,,0.5,0.0,28-01-2025,Daring,Mumbai,514.79
+2159.0,Wanita,Latihan,ZoomX Invincible,XL,2.0,3987.65,,0.0,,Ritel,Delhi,2781.72
+2160.0,Anak,Lari,Air Zoom,XL,,,,0.0,3/1/2025,Ritel,Mumbai,3744.91
+2161.0,Anak,Gaya Hidup,Waffle One,M,0.0,5119.41,0.8,0.0,,Daring,Pune,1956.8
+2162.0,Pria,Gaya Hidup,Blazer Mid,8,,7662.11,,0.0,,Daring,Mumbai,2398.55
+2163.0,Pria,Gaya Hidup,Dunk Low,7,,,1.24,0.0,3/6/2025,Ritel,Hyderabad,3344.98
+2164.0,Wanita,Sepak Bola,Mercurial Superfly,8,0.0,,0.95,0.0,23-10-2024,Daring,Pune,-872.9
+2165.0,Anak,Latihan,SuperRep Go,L,4.0,4577.65,,0.0,11/11/2024,Ritel,Kolkata,2460.19
+2166.0,Wanita,Gaya Hidup,Air Force 1,M,,7312.38,,0.0,1/2/2025,Daring,Mumbai,3364.05
+2167.0,Pria,Lari,React Infinity,XL,3.0,3055.79,,0.0,,Ritel,Mumbai,1259.58
+2168.0,Wanita,Lari,Pegasus Turbo,,,,0.85,0.0,8/1/2024,Ritel,Kolkata,3011.49
+2169.0,Anak,Latihan,Flex Trainer,,4.0,4046.05,0.01,16022.36,12/14/2024,Ritel,Delhi,1057.58
+2170.0,Anak,Gaya Hidup,Air Force 1,M,0.0,,,0.0,6/28/2025,Daring,Kolkata,3218.82
+2022.0,Wanita,Gaya Hidup,Air Force 1,L,,9378.52,1.06,0.0,10/29/2023,Ritel,Mumbai,128.92
+2172.0,Wanita,Latihan,ZoomX Invincible,M,,7988.99,1.2,0.0,12/17/2024,Daring,bengaluru,-909.86
+2173.0,Pria,Lari,Free RN,L,-1.0,6620.78,,0.0,29-03-2025,Daring,Bangalore,3770.03
+2174.0,Wanita,Sepak Bola,Phantom GT,L,,3883.92,,0.0,,Ritel,Pune,428.5
+2175.0,Wanita,Gaya Hidup,Blazer Mid,,,,1.16,0.0,,Daring,Pune,2457.78
+2176.0,Pria,Sepak Bola,Mercurial Superfly,,4.0,,,0.0,4/1/2025,Daring,bengaluru,3908.28
+2177.0,Wanita,Gaya Hidup,Waffle One,XL,,,,0.0,6/27/2025,Ritel,Mumbai,885.37
+2178.0,Pria,Lari,Free RN,,1.0,,,0.0,28-10-2024,Ritel,Bangalore,-983.37
+2179.0,Wanita,Latihan,ZoomX Invincible,M,3.0,,,0.0,1/26/2024,Ritel,Pune,3135.92
+2180.0,Wanita,Basket,LeBron 20,XL,,,,0.0,5/15/2024,Daring,Pune,2189.84
+2181.0,Wanita,Gaya Hidup,Air Force 1,XL,2.0,,,0.0,1/6/2025,Ritel,Delhi,419.58
+2182.0,Anak,Basket,Zoom Freak,11,,7214.55,,0.0,,Daring,Mumbai,-662.77
+2183.0,Anak,Gaya Hidup,Waffle One,M,,5389.56,,0.0,,Daring,Pune,2927.93
+2184.0,Pria,Sepak Bola,Mercurial Superfly,XL,4.0,,,0.0,,Ritel,Hyderabad,1980.73
+2185.0,Wanita,Latihan,ZoomX Invincible,XL,4.0,4207.44,0.59,6900.2,6/8/2025,Daring,Kolkata,-615.48
+2186.0,Pria,Lari,React Infinity,,0.0,,,0.0,,Ritel,Bangalore,540.83
+2187.0,Pria,Lari,React Infinity,L,,7795.32,,0.0,9/11/2024,Daring,Mumbai,2402.99
+2188.0,Pria,Lari,React Infinity,L,-1.0,,,0.0,,Daring,Pune,1278.03
+2189.0,Pria,Latihan,SuperRep Go,L,3.0,,0.9,0.0,10/2/2024,Daring,Hyd,3628.46
+2190.0,Anak,Basket,Kyrie Flytrap,L,,4280.01,0.66,0.0,,Daring,Delhi,1949.77
+2191.0,Pria,Gaya Hidup,Air Force 1,8,3.0,,,0.0,9/28/2024,Ritel,Pune,-1032.88
+2192.0,Pria,Basket,Kyrie Flytrap,XL,-1.0,,,0.0,10/13/2023,Ritel,Delhi,554.91
+2193.0,Wanita,Gaya Hidup,Waffle One,XL,-1.0,,1.24,0.0,1/17/2025,Ritel,Delhi,1803.66
+2194.0,Pria,Sepak Bola,Mercurial Superfly,M,,6196.01,,0.0,27-10-2024,Daring,hyderbad,926.03
+2195.0,Wanita,Latihan,SuperRep Go,,,,0.51,0.0,,Daring,Delhi,1041.81
+2196.0,Anak,Sepak Bola,Premier III,L,2.0,2708.73,,0.0,6/30/2025,Daring,Delhi,925.63
+2197.0,Anak,Latihan,ZoomX Invincible,L,3.0,,,0.0,10/6/2024,Daring,bengaluru,-418.5
+2198.0,Pria,Latihan,SuperRep Go,7,4.0,,0.65,0.0,1/5/2025,Daring,Pune,-169.33
+2199.0,Pria,Sepak Bola,Premier III,M,1.0,,,0.0,,Ritel,Kolkata,389.94
+2200.0,Pria,Basket,Air Jordan,9,3.0,5570.72,,0.0,,Daring,Delhi,1513.76
+2201.0,Wanita,Latihan,SuperRep Go,11,,,,0.0,5/10/2024,Daring,Mumbai,1403.56
+2202.0,Pria,Basket,Kyrie Flytrap,M,-1.0,7918.93,1.06,475.14,7/4/2025,Ritel,Bangalore,1994.42
+2203.0,Pria,Gaya Hidup,Air Force 1,M,0.0,6903.22,,0.0,,Daring,Pune,1556.95
+2204.0,Pria,Basket,LeBron 20,7,,7660.41,,0.0,5/17/2025,Daring,Delhi,2076.75
+2205.0,Wanita,Lari,React Infinity,XL,0.0,,,0.0,24-04-2025,Ritel,Pune,-467.52
+2206.0,Pria,Latihan,Flex Trainer,M,2.0,,,0.0,,Daring,Delhi,-524.85
+2207.0,Wanita,Lari,Pegasus Turbo,XL,,,,0.0,,Daring,Hyderabad,2101.41
+2208.0,Wanita,Basket,LeBron 20,M,,5172.62,0.97,0.0,,Ritel,hyderbad,-1074.04
+2209.0,Anak,Latihan,SuperRep Go,,,,,0.0,9/1/2024,Ritel,Hyd,1956.7
+2210.0,Pria,Gaya Hidup,Blazer Mid,XL,,,,0.0,9/8/2024,Ritel,Kolkata,701.02
+2000.0,Anak,Latihan,Metcon 7,,4.0,,0.94,0.0,2/27/2024,Ritel,bengaluru,2372.82
+2212.0,Wanita,Gaya Hidup,Blazer Mid,L,,7670.82,,0.0,9/23/2024,Daring,Kolkata,-87.95
+2213.0,Wanita,Lari,Air Zoom,9,,5714.92,,0.0,,Daring,Delhi,3741.14
+2214.0,Pria,Basket,LeBron 20,XL,2.0,5016.03,,0.0,,Ritel,Mumbai,1446.0
+2215.0,Pria,Basket,Zoom Freak,XL,3.0,,0.36,0.0,12/16/2024,Daring,Kolkata,3254.06
+2216.0,Wanita,Gaya Hidup,Air Force 1,M,1.0,3111.62,,0.0,,Daring,Hyd,2617.56
+2217.0,Wanita,Gaya Hidup,Waffle One,L,,,,0.0,4/15/2025,Ritel,Delhi,2190.84
+2218.0,Anak,Sepak Bola,Premier III,6,2.0,,,0.0,,Daring,Bangalore,1440.02
+2219.0,Wanita,Basket,Air Jordan,M,-1.0,,1.06,0.0,,Daring,bengaluru,3305.72
+2220.0,Anak,Latihan,SuperRep Go,M,,,,0.0,9/9/2024,Daring,Kolkata,890.14
+2221.0,Anak,Gaya Hidup,Waffle One,L,2.0,3375.97,,0.0,1/6/2024,Ritel,Mumbai,-297.05
+2222.0,Pria,Latihan,ZoomX Invincible,XL,2.0,8897.19,0.11,15837.0,12/21/2024,Ritel,Mumbai,2821.69
+2223.0,Anak,Latihan,Flex Trainer,M,-1.0,9180.15,,0.0,2/15/2025,Daring,Kolkata,799.28
+2224.0,Anak,Gaya Hidup,Dunk Low,,-1.0,,0.12,0.0,24-09-2024,Daring,Pune,3278.7
+2225.0,Anak,Basket,Kyrie Flytrap,11,,,,0.0,,Ritel,Hyd,1136.63
+2226.0,Wanita,Basket,Zoom Freak,,,,0.31,0.0,6/28/2025,Daring,Delhi,-131.04
+2021.0,Pria,Lari,React Infinity,XL,,2180.71,0.82,0.0,,Ritel,Hyd,2277.63
+2228.0,Anak,Basket,Zoom Freak,,,9382.15,,0.0,8/22/2024,Daring,Kolkata,-127.34
+2229.0,Pria,Lari,Air Zoom,XL,,7143.23,,0.0,3/26/2025,Ritel,Mumbai,3284.36
+2230.0,Anak,Gaya Hidup,Dunk Low,10,,,,0.0,,Daring,bengaluru,781.56
+2231.0,Anak,Latihan,Flex Trainer,9,0.0,,1.05,0.0,1/4/2025,Daring,bengaluru,-39.48
+2232.0,Wanita,Lari,Free RN,XL,,2149.28,0.32,0.0,11/17/2024,Daring,Kolkata,2409.87
+2233.0,Pria,Gaya Hidup,Air Force 1,XL,0.0,,,0.0,,Daring,Kolkata,2398.07
+2234.0,Pria,Latihan,Flex Trainer,,4.0,6189.1,1.12,-2970.77,12/21/2024,Ritel,bengaluru,2085.62
+2042.0,Pria,Basket,Kyrie Flytrap,10,1.0,5254.47,,0.0,26-02-2025,Ritel,bengaluru,2459.63
+2236.0,Pria,Sepak Bola,Mercurial Superfly,M,,,,0.0,,Daring,Delhi,880.62
+2237.0,Anak,Latihan,Metcon 7,M,,5089.88,,0.0,6/26/2025,Daring,Mumbai,-238.18
+2238.0,Anak,Latihan,SuperRep Go,,3.0,4348.86,,0.0,,Daring,Delhi,662.02
+2239.0,Pria,Latihan,SuperRep Go,XL,,,,0.0,8/4/2024,Daring,Kolkata,1750.71
+2240.0,Anak,Basket,Air Jordan,M,,9520.5,0.48,0.0,1/22/2025,Ritel,Kolkata,-928.85
+2241.0,Wanita,Sepak Bola,Tiempo Legend,12,,9662.04,,0.0,2/19/2025,Daring,hyderbad,-233.74
+2046.0,Anak,Basket,LeBron 20,,-1.0,4934.46,0.86,-690.82,,Ritel,Kolkata,2237.95
+2243.0,Pria,Gaya Hidup,Blazer Mid,L,,9747.58,,0.0,7/11/2024,Ritel,Delhi,266.31
+2244.0,Anak,Latihan,Metcon 7,L,2.0,,,0.0,,Daring,Delhi,1904.11
+2245.0,Anak,Lari,React Infinity,,,4128.35,,0.0,16-04-2025,Daring,Pune,-290.33
+2246.0,Anak,Basket,LeBron 20,L,-1.0,7806.98,,0.0,2/10/2024,Daring,Hyderabad,-943.35
+2247.0,Wanita,Latihan,Metcon 7,,,,,0.0,16-08-2024,Daring,Mumbai,-1158.15
+2248.0,Pria,Latihan,Metcon 7,M,4.0,8249.96,0.24,25079.88,1/16/2024,Daring,bengaluru,1625.14
+2249.0,Pria,Latihan,Flex Trainer,M,,7730.77,,0.0,5/28/2024,Daring,Delhi,-692.94
+2250.0,Pria,Basket,Kyrie Flytrap,XL,,,,0.0,10/1/2024,Ritel,Pune,821.13
+2046.0,Pria,Basket,Air Jordan,,2.0,9593.65,,0.0,11/1/2025,Daring,hyderbad,1592.5
+2252.0,Wanita,Lari,Free RN,L,,,,0.0,,Ritel,Delhi,934.87
+2253.0,Pria,Latihan,Flex Trainer,M,0.0,,,0.0,18-05-2025,Daring,bengaluru,1516.72
+2254.0,Wanita,Basket,LeBron 20,M,,,0.89,0.0,24-04-2025,Daring,Hyd,1642.0
+2255.0,Anak,Basket,LeBron 20,XL,,2222.55,0.84,0.0,4/6/2025,Ritel,Mumbai,586.56
+2256.0,Pria,Sepak Bola,Phantom GT,,,,,0.0,3/30/2025,Daring,hyderbad,3175.83
+2257.0,Pria,Basket,Kyrie Flytrap,XL,1.0,,,0.0,2/9/2025,Daring,Mumbai,-365.42
+2258.0,Wanita,Gaya Hidup,Dunk Low,L,,,0.39,0.0,11/21/2023,Daring,Mumbai,2824.7
+2259.0,Wanita,Sepak Bola,Mercurial Superfly,M,,,,0.0,10/20/2024,Ritel,Delhi,2323.89
+2260.0,Wanita,Gaya Hidup,Dunk Low,M,2.0,,,0.0,12/12/2024,Ritel,Pune,-352.18
+2261.0,Wanita,Latihan,ZoomX Invincible,,,2503.6,0.54,0.0,4/10/2024,Ritel,Pune,1574.74
+2262.0,Wanita,Lari,Pegasus Turbo,L,0.0,,,0.0,9/15/2024,Ritel,Pune,3146.93
+2263.0,Wanita,Sepak Bola,Premier III,M,0.0,5172.14,,0.0,10/8/2024,Daring,Kolkata,2510.55
+2264.0,Pria,Latihan,ZoomX Invincible,,4.0,5622.32,1.08,-1799.14,4/22/2024,Ritel,bengaluru,1248.25
+2265.0,Wanita,Sepak Bola,Premier III,7,,2422.97,,0.0,11/23/2024,Ritel,Delhi,-67.74
+2266.0,Wanita,Basket,LeBron 20,L,,,,0.0,19-07-2025,Ritel,Kolkata,3475.59
+2267.0,Wanita,Lari,Air Zoom,M,-1.0,3075.72,,0.0,12/20/2024,Ritel,Kolkata,238.78
+2268.0,Pria,Sepak Bola,Mercurial Superfly,M,3.0,7330.81,,0.0,11/16/2023,Daring,Kolkata,518.71
+2269.0,Wanita,Latihan,ZoomX Invincible,11,4.0,6424.32,,0.0,7/14/2024,Ritel,Mumbai,-405.26
+2270.0,Pria,Lari,React Infinity,XL,1.0,,1.03,0.0,6/6/2025,Ritel,Pune,3088.25
+2271.0,Anak,Gaya Hidup,Waffle One,9,,5116.58,0.07,0.0,5/3/2024,Ritel,Delhi,1293.94
+2038.0,Wanita,Latihan,ZoomX Invincible,XL,1.0,7338.57,,0.0,21-10-2024,Ritel,Delhi,3680.24
+2273.0,Anak,Lari,Free RN,M,-1.0,4004.36,,0.0,1/30/2024,Daring,Kolkata,-614.66
+2274.0,Wanita,Latihan,Metcon 7,6,4.0,,0.45,0.0,6/13/2025,Daring,bengaluru,2561.89
+2275.0,Anak,Lari,Pegasus Turbo,M,-1.0,,,0.0,3/7/2025,Daring,Pune,-783.71
+2276.0,Anak,Gaya Hidup,Air Force 1,L,-1.0,6066.5,,0.0,8/29/2023,Ritel,Kolkata,1181.87
+2277.0,Anak,Basket,LeBron 20,M,,3682.84,,0.0,12/28/2024,Daring,hyderbad,3967.77
+2278.0,Pria,Latihan,SuperRep Go,11,,,1.22,0.0,7/3/2025,Ritel,Pune,3638.15
+2279.0,Wanita,Gaya Hidup,Blazer Mid,6,,,,0.0,8/3/2024,Ritel,Mumbai,766.72
+2280.0,Wanita,Sepak Bola,Mercurial Superfly,M,-1.0,,,0.0,2/13/2025,Daring,Delhi,3069.57
+2281.0,Anak,Gaya Hidup,Waffle One,M,2.0,,,0.0,7/13/2025,Ritel,Kolkata,1753.48
+2282.0,Pria,Lari,Free RN,,,,0.26,0.0,14-11-2024,Ritel,Mumbai,-1002.46
+2283.0,Pria,Sepak Bola,Mercurial Superfly,10,1.0,,,0.0,8/21/2024,Ritel,Delhi,468.59
+2284.0,Anak,Sepak Bola,Mercurial Superfly,M,,,0.53,0.0,8/10/2024,Daring,Kolkata,1370.01
+2285.0,Wanita,Basket,LeBron 20,L,-1.0,,,0.0,,Ritel,Delhi,2211.71
+2286.0,Wanita,Gaya Hidup,Waffle One,,,,,0.0,10/16/2024,Daring,Bangalore,2419.09
+2287.0,Wanita,Lari,React Infinity,9,3.0,,,0.0,,Daring,Mumbai,-650.68
+2288.0,Wanita,Latihan,ZoomX Invincible,,,,0.25,0.0,24-08-2024,Ritel,Hyderabad,1570.91
+2289.0,Wanita,Lari,Air Zoom,L,,,0.51,0.0,,Ritel,Mumbai,3161.45
+2290.0,Wanita,Latihan,Flex Trainer,L,,,,0.0,20-10-2024,Daring,Kolkata,546.66
+2291.0,Wanita,Basket,LeBron 20,L,-1.0,,,0.0,,Ritel,Pune,2729.23
+2292.0,Wanita,Lari,Free RN,M,2.0,,1.1,0.0,5/11/2024,Daring,Kolkata,1192.5
+2293.0,Wanita,Basket,Air Jordan,XL,3.0,,,0.0,13-05-2025,Ritel,Mumbai,2525.87
+2012.0,Wanita,Sepak Bola,Phantom GT,,,,,0.0,1/9/2024,Ritel,Hyderabad,-914.59
+2295.0,Anak,Gaya Hidup,Dunk Low,,,,0.81,0.0,17-06-2025,Ritel,Hyd,3901.16
+2296.0,Wanita,Sepak Bola,Phantom GT,,,,,0.0,8/15/2024,Daring,Delhi,-1188.86
+2297.0,Anak,Basket,LeBron 20,M,,6356.31,0.74,0.0,31-12-2024,Daring,Pune,454.97
+2298.0,Pria,Latihan,SuperRep Go,,,5571.14,0.49,0.0,11/6/2025,Ritel,Kolkata,3445.5
+2299.0,Anak,Sepak Bola,Phantom GT,,2.0,,0.77,0.0,9/5/2025,Daring,hyderbad,2596.8
+2300.0,Pria,Basket,Air Jordan,L,3.0,6331.64,0.78,4178.88,17-08-2024,Ritel,Delhi,3380.28
+2301.0,Pria,Sepak Bola,Mercurial Superfly,XL,,7982.2,,0.0,29-12-2024,Daring,Pune,-505.58
+2302.0,Wanita,Lari,Air Zoom,XL,0.0,,,0.0,2/27/2025,Ritel,Hyd,1489.99
+2303.0,Anak,Lari,Free RN,L,2.0,2504.09,,0.0,24-12-2024,Ritel,Hyd,2971.55
+2304.0,Pria,Latihan,Flex Trainer,11,,,,0.0,28-11-2024,Daring,Hyd,2055.87
+2305.0,Anak,Lari,Pegasus Turbo,L,,4803.7,0.08,0.0,,Ritel,Mumbai,2794.61
+2306.0,Anak,Basket,Air Jordan,,1.0,8267.56,0.29,5869.97,11/10/2024,Ritel,Bangalore,476.25
+2307.0,Wanita,Lari,Free RN,XL,2.0,9369.1,,0.0,18-06-2025,Ritel,Kolkata,2390.7
+2308.0,Pria,Lari,Pegasus Turbo,,0.0,,0.65,0.0,5/1/2025,Daring,bengaluru,2282.01
+2004.0,Anak,Gaya Hidup,Dunk Low,M,,,0.6,0.0,2/23/2025,Ritel,bengaluru,-276.83
+2310.0,Pria,Lari,Air Zoom,XL,,,,0.0,4/2/2025,Daring,Kolkata,-1061.45
+2026.0,Wanita,Latihan,Flex Trainer,M,4.0,,0.26,0.0,9/25/2024,Daring,Delhi,495.62
+2312.0,Anak,Sepak Bola,Premier III,,,,,0.0,9/30/2024,Daring,bengaluru,249.56
+2313.0,Wanita,Latihan,SuperRep Go,M,0.0,,,0.0,,Daring,Delhi,480.74
+2314.0,Wanita,Sepak Bola,Mercurial Superfly,M,2.0,,0.86,0.0,9/12/2024,Ritel,Mumbai,1505.11
+2315.0,Pria,Basket,Kyrie Flytrap,M,,9149.88,0.71,0.0,12/11/2024,Ritel,Hyderabad,143.06
+2316.0,Pria,Sepak Bola,Phantom GT,M,1.0,,0.39,0.0,,Ritel,Delhi,3862.6
+2317.0,Pria,Latihan,Flex Trainer,M,,9695.44,1.06,0.0,9/13/2024,Daring,Kolkata,32.45
+2318.0,Pria,Sepak Bola,Phantom GT,11,2.0,,0.25,0.0,4/4/2025,Ritel,Delhi,1894.17
+2319.0,Wanita,Basket,Kyrie Flytrap,L,-1.0,5649.99,,0.0,29-06-2025,Daring,Delhi,2141.68
+2320.0,Anak,Lari,Pegasus Turbo,XL,,4033.28,,0.0,23-01-2025,Ritel,Hyd,1265.74
+2321.0,Pria,Gaya Hidup,Dunk Low,8,,,,0.0,6/10/2024,Daring,Mumbai,-362.47
+2322.0,Wanita,Lari,Pegasus Turbo,L,0.0,8016.24,,0.0,7/4/2025,Ritel,Delhi,1333.86
+2323.0,Pria,Gaya Hidup,Dunk Low,,,6537.29,,0.0,5/1/2025,Daring,bengaluru,-453.11
+2324.0,Wanita,Sepak Bola,Mercurial Superfly,M,0.0,,0.21,0.0,27-02-2025,Daring,Kolkata,2640.1
+2325.0,Pria,Basket,Zoom Freak,M,0.0,8031.83,0.56,0.0,5/18/2025,Daring,Kolkata,3954.38
+2326.0,Wanita,Gaya Hidup,Dunk Low,XL,4.0,9936.94,,0.0,10/12/2024,Ritel,Kolkata,2047.65
+2327.0,Pria,Latihan,Flex Trainer,XL,4.0,6640.67,,0.0,21-03-2025,Ritel,Delhi,3402.41
+2328.0,Pria,Gaya Hidup,Waffle One,6,2.0,6449.46,0.29,9158.23,9/11/2024,Daring,Mumbai,39.69
+2329.0,Pria,Basket,Kyrie Flytrap,L,4.0,4981.26,,0.0,5/6/2025,Daring,Mumbai,1833.07
+2330.0,Wanita,Latihan,Flex Trainer,XL,,,0.06,0.0,10/22/2024,Daring,Mumbai,-648.08
+2331.0,Anak,Basket,Kyrie Flytrap,L,,9023.07,,0.0,23-11-2024,Ritel,Mumbai,-304.92
+2332.0,Anak,Latihan,Flex Trainer,,-1.0,,0.22,0.0,7/15/2024,Ritel,Pune,2914.06
+2333.0,Anak,Lari,Free RN,,,4638.25,,0.0,,Daring,Hyd,-614.06
+2334.0,Wanita,Latihan,SuperRep Go,L,4.0,,0.82,0.0,6/6/2024,Ritel,Mumbai,-80.25
+2335.0,Wanita,Lari,Free RN,XL,0.0,5620.64,,0.0,1/5/2024,Daring,Mumbai,217.22
+2336.0,Anak,Sepak Bola,Mercurial Superfly,8,4.0,8482.43,,0.0,10/22/2023,Daring,Pune,3854.71
+2337.0,Wanita,Latihan,SuperRep Go,,,,,0.0,10/17/2024,Daring,Pune,3186.84
+2338.0,Wanita,Sepak Bola,Premier III,XL,,,,0.0,,Ritel,Delhi,3529.93
+2339.0,Wanita,Basket,LeBron 20,L,4.0,,,0.0,,Ritel,Kolkata,3196.02
+2340.0,Wanita,Lari,Free RN,7,3.0,,0.91,0.0,8/7/2024,Daring,Mumbai,-425.99
+2341.0,Wanita,Gaya Hidup,Waffle One,11,,,,0.0,4/22/2025,Daring,Hyd,-280.18
+2342.0,Wanita,Latihan,Metcon 7,XL,,,,0.0,8/19/2024,Ritel,Kolkata,3463.09
+2343.0,Wanita,Basket,Zoom Freak,,0.0,7507.91,,0.0,22-11-2024,Ritel,Kolkata,1900.24
+2344.0,Anak,Latihan,ZoomX Invincible,10,-1.0,,0.65,0.0,20-06-2025,Daring,Kolkata,938.88
+2345.0,Pria,Lari,React Infinity,,0.0,,,0.0,21-06-2025,Ritel,Hyderabad,3039.05
+2346.0,Pria,Sepak Bola,Phantom GT,7,,6320.59,0.93,0.0,,Ritel,Mumbai,324.45
+2347.0,Pria,Latihan,Flex Trainer,L,,9653.35,,0.0,21-09-2024,Ritel,Bangalore,3511.89
+2348.0,Anak,Latihan,Metcon 7,XL,,6591.41,,0.0,4/29/2025,Ritel,Delhi,2604.68
+2349.0,Anak,Sepak Bola,Tiempo Legend,10,3.0,,,0.0,10/25/2023,Daring,Delhi,-902.62
+2350.0,Pria,Lari,Air Zoom,,4.0,8228.88,,0.0,21-03-2025,Ritel,Delhi,2494.5
+2351.0,Pria,Basket,LeBron 20,11,3.0,4179.34,,0.0,29-07-2024,Ritel,Pune,2363.69
+2352.0,Pria,Basket,LeBron 20,M,,,,0.0,3/24/2025,Daring,Bangalore,599.21
+2353.0,Anak,Latihan,ZoomX Invincible,9,0.0,,0.22,0.0,10/3/2024,Ritel,Bangalore,818.35
+2354.0,Pria,Basket,Kyrie Flytrap,L,0.0,,,0.0,9/6/2024,Daring,hyderbad,1445.09
+2355.0,Wanita,Gaya Hidup,Waffle One,L,1.0,,,0.0,7/26/2024,Ritel,bengaluru,-887.83
+2356.0,Pria,Basket,Air Jordan,L,,,,0.0,17-02-2025,Ritel,Pune,543.26
+2357.0,Wanita,Gaya Hidup,Air Force 1,M,,,1.23,0.0,4/28/2025,Ritel,Bangalore,-1199.32
+2358.0,Pria,Basket,LeBron 20,M,4.0,,,0.0,24-02-2025,Daring,Pune,1819.6
+2359.0,Pria,Gaya Hidup,Waffle One,L,-1.0,9836.48,0.34,-6492.08,,Ritel,Pune,-874.96
+2360.0,Wanita,Latihan,Metcon 7,XL,,,0.85,0.0,7/12/2024,Daring,hyderbad,1947.5
+2361.0,Anak,Latihan,Flex Trainer,L,0.0,,1.06,0.0,7/30/2024,Ritel,Mumbai,1302.98
+2362.0,Wanita,Gaya Hidup,Blazer Mid,XL,2.0,,1.04,0.0,12/9/2024,Daring,bengaluru,3817.26
+2363.0,Anak,Lari,Pegasus Turbo,XL,,5419.15,1.08,0.0,1/7/2025,Ritel,hyderbad,-597.61
+2364.0,Wanita,Gaya Hidup,Dunk Low,M,,,0.27,0.0,,Daring,Delhi,1414.23
+2365.0,Wanita,Lari,React Infinity,10,,,,0.0,8/17/2024,Daring,Hyderabad,3555.61
+2366.0,Anak,Gaya Hidup,Waffle One,M,,,0.63,0.0,5/8/2025,Ritel,Bangalore,3737.47
+2367.0,Anak,Gaya Hidup,Dunk Low,XL,4.0,6202.99,0.84,3969.91,11/12/2024,Daring,Bangalore,-202.12
+2368.0,Wanita,Gaya Hidup,Waffle One,L,,5582.98,,0.0,8/4/2023,Ritel,Delhi,2369.28
+2369.0,Pria,Basket,LeBron 20,XL,0.0,4248.21,0.5,0.0,11/7/2025,Daring,Hyderabad,2427.86
+2370.0,Pria,Lari,Pegasus Turbo,L,2.0,,,0.0,2/4/2025,Daring,Delhi,867.37
+2371.0,Anak,Latihan,Flex Trainer,,1.0,,0.05,0.0,15-04-2025,Daring,Kolkata,3424.65
+2372.0,Pria,Lari,Free RN,,,7624.86,,0.0,5/23/2025,Daring,Kolkata,3365.96
+2373.0,Wanita,Gaya Hidup,Air Force 1,XL,,8637.25,0.35,0.0,9/22/2024,Ritel,Kolkata,2738.82
+2006.0,Wanita,Basket,Zoom Freak,L,-1.0,8799.22,,0.0,8/13/2023,Ritel,Bangalore,-1109.57
+2375.0,Pria,Latihan,Metcon 7,,-1.0,9061.25,,0.0,5/4/2025,Ritel,Mumbai,990.59
+2376.0,Pria,Gaya Hidup,Dunk Low,XL,,3718.82,0.88,0.0,10/3/2024,Daring,Delhi,-234.66
+2377.0,Pria,Basket,LeBron 20,,4.0,,,0.0,2/7/2025,Daring,Mumbai,2438.24
+2378.0,Wanita,Basket,LeBron 20,XL,-1.0,,,0.0,4/11/2024,Ritel,Mumbai,2107.42
+2379.0,Pria,Gaya Hidup,Air Force 1,L,4.0,,,0.0,4/9/2024,Daring,Mumbai,3289.77
+2380.0,Pria,Sepak Bola,Phantom GT,M,1.0,7932.85,,0.0,9/12/2024,Ritel,Delhi,2707.27
+2381.0,Anak,Gaya Hidup,Dunk Low,M,3.0,4834.65,1.02,-290.08,10/12/2024,Ritel,Pune,213.96
+2382.0,Pria,Gaya Hidup,Waffle One,L,4.0,,,0.0,3/9/2024,Ritel,Mumbai,787.42
+2004.0,Wanita,Basket,LeBron 20,,-1.0,3272.45,,0.0,2/28/2025,Daring,Kolkata,69.68
+2384.0,Wanita,Latihan,SuperRep Go,,3.0,2070.97,1.25,-1553.23,5/9/2024,Daring,Delhi,42.89
+2385.0,Pria,Latihan,Metcon 7,,,,,0.0,3/10/2024,Ritel,Delhi,1443.09
+2386.0,Pria,Basket,Kyrie Flytrap,M,,2271.77,,0.0,13-07-2025,Daring,Pune,2029.55
+2387.0,Wanita,Basket,Kyrie Flytrap,,3.0,,,0.0,9/21/2024,Daring,Pune,1042.09
+2388.0,Anak,Lari,Air Zoom,L,1.0,5321.46,,0.0,9/2/2024,Ritel,Bangalore,2587.26
+2389.0,Wanita,Basket,Kyrie Flytrap,XL,0.0,7901.16,0.77,0.0,10/8/2024,Daring,Delhi,-406.39
+2390.0,Anak,Gaya Hidup,Waffle One,XL,-1.0,,,0.0,5/24/2025,Daring,Delhi,496.54
+2002.0,Wanita,Latihan,ZoomX Invincible,XL,4.0,6820.42,,0.0,10/3/2024,Ritel,Kolkata,3842.85
+2392.0,Anak,Basket,Zoom Freak,XL,,8631.03,,0.0,,Ritel,bengaluru,1356.18
+2050.0,Anak,Latihan,ZoomX Invincible,L,,,1.19,0.0,,Ritel,Hyderabad,4.76
+2394.0,Anak,Gaya Hidup,Air Force 1,XL,,,0.2,0.0,8/18/2023,Daring,Delhi,-133.03
+2395.0,Anak,Sepak Bola,Premier III,XL,1.0,,,0.0,7/8/2025,Daring,Pune,85.0
+2396.0,Pria,Basket,Air Jordan,L,,5967.92,0.03,0.0,9/6/2025,Ritel,Pune,859.93
+2397.0,Pria,Sepak Bola,Phantom GT,XL,,,,0.0,12/27/2023,Ritel,Mumbai,3996.96
+2398.0,Wanita,Sepak Bola,Mercurial Superfly,L,,4301.85,0.74,0.0,,Ritel,Bangalore,3888.42
+2399.0,Wanita,Lari,Air Zoom,L,-1.0,6188.29,,0.0,8/7/2024,Ritel,Pune,515.6
+2025.0,Anak,Latihan,ZoomX Invincible,XL,4.0,6743.07,,0.0,10/9/2024,Daring,Pune,-277.41
+2012.0,Anak,Lari,Pegasus Turbo,,0.0,9220.15,,0.0,4/2/2025,Ritel,Pune,2688.05
+2402.0,Anak,Lari,React Infinity,,,6437.85,,0.0,3/9/2025,Daring,Mumbai,1231.3
+2403.0,Wanita,Lari,React Infinity,XL,,,1.13,0.0,8/24/2024,Ritel,Delhi,1309.54
+2404.0,Pria,Gaya Hidup,Blazer Mid,XL,,,0.09,0.0,1/25/2024,Daring,Pune,-501.36
+2405.0,Pria,Basket,Kyrie Flytrap,6,1.0,,,0.0,11/17/2024,Daring,Kolkata,69.95
+2406.0,Pria,Latihan,Metcon 7,L,4.0,6458.72,,0.0,9/17/2023,Daring,Mumbai,402.0
+2407.0,Anak,Lari,Free RN,6,,9193.15,,0.0,12/30/2023,Daring,Kolkata,521.77
+2408.0,Pria,Sepak Bola,Premier III,XL,1.0,,,0.0,10/9/2024,Ritel,bengaluru,1731.86
+2409.0,Pria,Basket,Zoom Freak,M,,,,0.0,1/19/2025,Ritel,bengaluru,2993.72
+2410.0,Anak,Basket,Air Jordan,,,,1.11,0.0,27-03-2025,Ritel,hyderbad,1344.49
+2025.0,Pria,Gaya Hidup,Blazer Mid,L,1.0,8903.17,,0.0,,Ritel,Kolkata,3808.81
+2412.0,Anak,Gaya Hidup,Blazer Mid,XL,1.0,4920.3,0.14,4231.46,,Ritel,Mumbai,1135.72
+2413.0,Pria,Latihan,Flex Trainer,XL,3.0,7005.67,0.15,17864.46,,Ritel,Kolkata,2329.98
+2414.0,Wanita,Basket,Air Jordan,XL,,8141.8,,0.0,1/25/2024,Daring,Hyd,-829.35
+2415.0,Wanita,Lari,Free RN,8,3.0,6178.39,,0.0,7/22/2024,Ritel,Bangalore,73.75
+2416.0,Anak,Sepak Bola,Mercurial Superfly,9,3.0,6245.23,1.15,-2810.35,14-12-2024,Ritel,Mumbai,3485.64
+2417.0,Pria,Gaya Hidup,Dunk Low,,,8293.38,1.12,0.0,12/29/2024,Ritel,bengaluru,1727.06
+2418.0,Pria,Sepak Bola,Phantom GT,XL,,9288.75,0.54,0.0,4/29/2025,Ritel,Mumbai,3110.43
+2419.0,Pria,Gaya Hidup,Dunk Low,L,,8738.99,0.47,0.0,7/14/2024,Daring,Hyderabad,2868.49
+2420.0,Anak,Basket,Zoom Freak,9,,,1.02,0.0,4/11/2024,Daring,hyderbad,1664.6
+2421.0,Wanita,Lari,React Infinity,M,2.0,8136.39,,0.0,3/10/2025,Ritel,Pune,3398.15
+2422.0,Anak,Sepak Bola,Tiempo Legend,,4.0,,,0.0,7/23/2024,Ritel,Mumbai,3044.66
+2025.0,Anak,Latihan,Flex Trainer,11,,4554.97,,0.0,3/5/2025,Ritel,hyderbad,2802.1
+2424.0,Wanita,Basket,Air Jordan,10,,7634.65,,0.0,,Daring,Kolkata,1749.8
+2425.0,Anak,Latihan,ZoomX Invincible,XL,,,0.38,0.0,30-12-2024,Daring,bengaluru,3058.78
+2426.0,Anak,Gaya Hidup,Dunk Low,M,,2278.67,0.56,0.0,5/3/2025,Ritel,Pune,-72.52
+2427.0,Pria,Lari,Pegasus Turbo,7,,2904.11,,0.0,6/13/2025,Daring,Delhi,1683.98
+2428.0,Anak,Basket,Kyrie Flytrap,12,2.0,,,0.0,7/12/2024,Ritel,Mumbai,427.51
+2429.0,Anak,Gaya Hidup,Dunk Low,L,,,,0.0,25-05-2025,Daring,Mumbai,550.48
+2430.0,Wanita,Sepak Bola,Tiempo Legend,12,3.0,,0.1,0.0,7/9/2025,Daring,Pune,215.3
+2431.0,Wanita,Gaya Hidup,Blazer Mid,L,1.0,,,0.0,15-11-2024,Daring,Hyderabad,1627.78
+2432.0,Wanita,Basket,Zoom Freak,L,1.0,3036.61,0.86,425.13,10/26/2024,Daring,Mumbai,3754.3
+2433.0,Pria,Basket,Zoom Freak,,4.0,7154.83,,0.0,,Ritel,Pune,-620.53
+2434.0,Anak,Latihan,Metcon 7,M,-1.0,3019.25,0.79,-634.04,2/11/2025,Daring,Hyderabad,387.15
+2435.0,Anak,Gaya Hidup,Waffle One,XL,,5853.58,,0.0,4/1/2024,Ritel,Kolkata,2378.82
+2436.0,Anak,Basket,LeBron 20,8,0.0,,0.81,0.0,,Daring,bengaluru,2213.84
+2437.0,Wanita,Lari,Pegasus Turbo,XL,3.0,,0.53,0.0,31-07-2024,Ritel,hyderbad,-281.42
+2438.0,Pria,Latihan,Metcon 7,8,,,,0.0,11/24/2024,Ritel,Mumbai,2965.39
+2439.0,Pria,Gaya Hidup,Blazer Mid,L,-1.0,3239.59,,0.0,3/3/2025,Ritel,Bangalore,3467.1
+2440.0,Wanita,Basket,Kyrie Flytrap,XL,-1.0,7510.8,,0.0,12/11/2024,Ritel,Kolkata,2989.6
+2441.0,Wanita,Latihan,Metcon 7,XL,,,1.11,0.0,,Ritel,Pune,-219.02
+2442.0,Pria,Sepak Bola,Tiempo Legend,L,,,0.04,0.0,1/26/2025,Daring,Mumbai,3083.26
+2443.0,Wanita,Basket,LeBron 20,M,1.0,6271.66,,0.0,3/15/2025,Ritel,Mumbai,2449.43
+2444.0,Wanita,Gaya Hidup,Blazer Mid,XL,3.0,3676.04,,0.0,5/25/2025,Ritel,Pune,1621.74
+2445.0,Wanita,Basket,Air Jordan,XL,,,,0.0,2/12/2024,Daring,Kolkata,141.93
+2446.0,Pria,Sepak Bola,Mercurial Superfly,,,8062.11,,0.0,,Daring,Kolkata,3198.97
+2447.0,Anak,Gaya Hidup,Waffle One,XL,,,,0.0,5/4/2024,Daring,Kolkata,1291.8
+2003.0,Wanita,Gaya Hidup,Waffle One,XL,2.0,8516.45,0.22,13285.66,9/30/2023,Daring,Kolkata,1764.52
+2449.0,Wanita,Latihan,SuperRep Go,,-1.0,3664.69,,0.0,2/3/2025,Ritel,Hyderabad,-173.68
+2450.0,Pria,Basket,Air Jordan,12,,7520.63,,0.0,19-07-2025,Daring,Kolkata,1786.43
+2451.0,Anak,Sepak Bola,Premier III,,2.0,,0.54,0.0,11/4/2023,Daring,Mumbai,2233.57
+2452.0,Pria,Gaya Hidup,Dunk Low,XL,,8780.66,,0.0,,Daring,Bangalore,176.96
+2453.0,Wanita,Lari,React Infinity,M,,9344.52,,0.0,,Daring,Pune,387.79
+2454.0,Wanita,Sepak Bola,Tiempo Legend,XL,,,0.19,0.0,2/25/2025,Daring,Bangalore,3100.44
+2455.0,Wanita,Latihan,Metcon 7,,,4071.46,,0.0,22-03-2025,Ritel,Delhi,2003.31
+2456.0,Wanita,Sepak Bola,Premier III,M,0.0,4254.68,,0.0,3/15/2025,Ritel,Kolkata,3498.64
+2457.0,Wanita,Sepak Bola,Mercurial Superfly,,0.0,8206.22,,0.0,4/3/2025,Ritel,Bangalore,2443.4
+2458.0,Anak,Sepak Bola,Phantom GT,,,,,0.0,12/20/2023,Ritel,Pune,573.21
+2459.0,Anak,Basket,Air Jordan,M,,3572.52,,0.0,4/20/2024,Ritel,Kolkata,-404.04
+2460.0,Wanita,Basket,Zoom Freak,XL,2.0,5482.96,0.35,7127.85,11/4/2024,Daring,Kolkata,-823.8
+2461.0,Wanita,Basket,LeBron 20,L,,3939.92,0.63,0.0,,Daring,Pune,3146.03
+2462.0,Pria,Basket,Zoom Freak,8,,4468.7,0.49,0.0,1/23/2025,Ritel,Pune,2143.6
+2037.0,Wanita,Lari,React Infinity,XL,,,,0.0,10/4/2024,Daring,Delhi,438.39
+2464.0,Wanita,Gaya Hidup,Blazer Mid,XL,3.0,2699.59,,0.0,6/30/2024,Ritel,Hyderabad,3507.56
+2465.0,Anak,Gaya Hidup,Blazer Mid,7,1.0,7814.02,,0.0,22-03-2025,Ritel,Pune,684.07
+2466.0,Wanita,Sepak Bola,Mercurial Superfly,,-1.0,6569.65,,0.0,7/5/2025,Ritel,Pune,3056.38
+2467.0,Anak,Latihan,SuperRep Go,M,1.0,8484.82,,0.0,11/5/2023,Daring,Mumbai,1899.54
+2468.0,Wanita,Sepak Bola,Phantom GT,7,0.0,6012.23,0.62,0.0,10/26/2024,Ritel,bengaluru,-1113.25
+2469.0,Pria,Latihan,Metcon 7,XL,4.0,,1.08,0.0,5/21/2025,Ritel,Mumbai,-279.26
+2470.0,Pria,Sepak Bola,Mercurial Superfly,L,,,,0.0,7/11/2024,Daring,Delhi,1099.17
+2471.0,Pria,Basket,Kyrie Flytrap,L,,4527.64,,0.0,,Ritel,Pune,464.96
+2472.0,Pria,Basket,LeBron 20,L,,2255.65,,0.0,4/5/2025,Daring,Mumbai,560.7
+2473.0,Pria,Latihan,ZoomX Invincible,,,8752.02,,0.0,,Ritel,Pune,283.56
+2474.0,Anak,Latihan,Metcon 7,M,,,,0.0,12/21/2024,Ritel,Delhi,115.11
+2475.0,Pria,Lari,Free RN,L,2.0,,1.06,0.0,1/7/2025,Daring,bengaluru,3885.97
+2476.0,Pria,Sepak Bola,Premier III,M,,,1.09,0.0,,Ritel,Pune,-627.07
+2477.0,Wanita,Latihan,ZoomX Invincible,M,,5923.67,,0.0,30-09-2024,Daring,hyderbad,-177.68
+2478.0,Wanita,Sepak Bola,Mercurial Superfly,,2.0,,0.62,0.0,12/5/2025,Daring,Pune,-223.4
+2479.0,Wanita,Lari,Air Zoom,,,2708.99,,0.0,,Daring,Delhi,952.78
+2480.0,Pria,Basket,Kyrie Flytrap,M,,,,0.0,20-08-2024,Ritel,Pune,25.18
+2481.0,Wanita,Sepak Bola,Premier III,7,1.0,9145.37,0.07,8505.19,17-04-2025,Daring,Pune,1755.19
+2482.0,Pria,Gaya Hidup,Air Force 1,XL,,,,0.0,9/14/2024,Daring,Mumbai,2642.8
+2483.0,Anak,Lari,Free RN,,-1.0,,,0.0,5/17/2025,Ritel,Delhi,856.75
+2484.0,Pria,Sepak Bola,Mercurial Superfly,10,,5308.26,1.03,0.0,10/5/2025,Ritel,Bangalore,1189.82
+2485.0,Anak,Lari,Air Zoom,M,,9307.2,,0.0,17-12-2024,Daring,Hyderabad,16.06
+2486.0,Anak,Sepak Bola,Mercurial Superfly,M,,,0.33,0.0,,Ritel,Hyd,1332.57
+2487.0,Pria,Lari,Air Zoom,L,3.0,5881.13,0.8,3528.68,3/31/2025,Daring,hyderbad,2108.4
+2488.0,Anak,Lari,Free RN,6,4.0,6387.51,,0.0,,Ritel,Kolkata,300.76
+2489.0,Pria,Gaya Hidup,Air Force 1,,4.0,,0.18,0.0,2/10/2024,Ritel,hyderbad,1415.34
+2490.0,Wanita,Sepak Bola,Premier III,L,3.0,5015.19,0.75,3761.39,26-11-2024,Daring,hyderbad,-494.53
+2491.0,Anak,Sepak Bola,Phantom GT,M,,8998.44,,0.0,5/28/2025,Daring,bengaluru,-432.44
+2492.0,Anak,Basket,LeBron 20,L,,,,0.0,,Daring,Kolkata,473.22
+2493.0,Wanita,Sepak Bola,Premier III,,3.0,6042.94,,0.0,11/26/2024,Ritel,Kolkata,1659.75
+2494.0,Anak,Gaya Hidup,Dunk Low,,2.0,,,0.0,20-11-2024,Ritel,Mumbai,1007.7
+2495.0,Anak,Basket,LeBron 20,,3.0,,1.11,0.0,1/20/2025,Ritel,Bangalore,36.16
+2496.0,Anak,Lari,React Infinity,M,2.0,4110.72,0.32,5590.58,12/24/2024,Ritel,bengaluru,3894.95
+2497.0,Anak,Basket,Air Jordan,XL,1.0,,,0.0,11/29/2023,Daring,Mumbai,2592.98
+2498.0,Anak,Latihan,ZoomX Invincible,,,,,0.0,1/6/2025,Ritel,Pune,1574.98
+2499.0,Wanita,Sepak Bola,Premier III,L,,8347.87,,0.0,6/7/2024,Ritel,hyderbad,1488.3
+2500.0,Anak,Lari,Pegasus Turbo,,,,0.99,0.0,7/6/2025,Daring,bengaluru,3100.16
+2501.0,Wanita,Gaya Hidup,Air Force 1,L,,6453.36,,0.0,4/6/2025,Ritel,Kolkata,2321.06
+2502.0,Wanita,Basket,Kyrie Flytrap,M,0.0,,,0.0,9/10/2023,Ritel,Mumbai,2412.82
+2503.0,Wanita,Latihan,ZoomX Invincible,XL,-1.0,,,0.0,20-01-2025,Daring,Bangalore,-173.16
+2504.0,Pria,Basket,Zoom Freak,,3.0,,,0.0,,Daring,hyderbad,-278.07
+2505.0,Wanita,Lari,Free RN,9,,,1.11,0.0,3/7/2025,Daring,bengaluru,3748.24
+2506.0,Pria,Latihan,SuperRep Go,,,2225.73,,0.0,27-05-2025,Daring,Delhi,276.63
+2507.0,Pria,Sepak Bola,Phantom GT,L,2.0,,,0.0,3/13/2024,Ritel,hyderbad,2116.53
+2508.0,Anak,Sepak Bola,Premier III,XL,1.0,,1.16,0.0,,Ritel,Kolkata,1811.51
+2509.0,Pria,Lari,React Infinity,L,,,,0.0,11/23/2024,Daring,bengaluru,1086.09
+2510.0,Anak,Lari,React Infinity,,0.0,2165.14,0.36,0.0,,Daring,Mumbai,3012.1
+2511.0,Pria,Lari,Pegasus Turbo,,-1.0,6310.25,0.1,-5679.23,2/13/2025,Daring,Bangalore,2399.42
+2512.0,Pria,Latihan,Metcon 7,M,,6110.96,,0.0,,Daring,Kolkata,3074.69
+2513.0,Wanita,Basket,Zoom Freak,XL,4.0,9848.8,,0.0,10/11/2024,Daring,Pune,2764.66
+2514.0,Anak,Basket,Air Jordan,M,1.0,,,0.0,5/26/2025,Daring,bengaluru,1790.41
+2515.0,Wanita,Latihan,SuperRep Go,,1.0,7532.24,,0.0,,Ritel,Pune,1060.53
+2516.0,Anak,Lari,React Infinity,,,,,0.0,1/21/2024,Daring,Pune,157.65
+2517.0,Pria,Gaya Hidup,Air Force 1,7,1.0,3059.89,,0.0,,Daring,hyderbad,1968.82
+2518.0,Wanita,Basket,Air Jordan,L,,,1.03,0.0,7/3/2024,Ritel,Delhi,-703.61
+2519.0,Wanita,Lari,React Infinity,L,,9701.72,,0.0,11/10/2024,Daring,Hyd,-835.82
+2520.0,Anak,Sepak Bola,Mercurial Superfly,,,,0.14,0.0,9/5/2025,Daring,bengaluru,-945.88
+2521.0,Anak,Gaya Hidup,Blazer Mid,M,4.0,3645.35,,0.0,25-09-2024,Daring,Kolkata,3265.83
+2522.0,Pria,Lari,Pegasus Turbo,XL,4.0,6243.91,,0.0,2/13/2024,Ritel,Kolkata,-199.13
+2523.0,Pria,Basket,LeBron 20,M,,7007.6,,0.0,7/8/2024,Ritel,Kolkata,2068.49
+2524.0,Wanita,Gaya Hidup,Air Force 1,XL,,,,0.0,21-11-2024,Daring,Kolkata,997.53
+2525.0,Wanita,Latihan,Metcon 7,XL,2.0,,,0.0,2/18/2025,Ritel,Kolkata,3453.18
+2526.0,Anak,Gaya Hidup,Waffle One,10,1.0,,,0.0,8/1/2024,Ritel,Hyderabad,3188.07
+2527.0,Pria,Gaya Hidup,Air Force 1,XL,,7408.91,,0.0,3/18/2024,Daring,Delhi,-138.78
+2528.0,Wanita,Latihan,ZoomX Invincible,11,2.0,,,0.0,10/6/2025,Daring,Delhi,134.1
+2529.0,Pria,Lari,React Infinity,XL,,,,0.0,,Daring,Kolkata,3008.62
+2530.0,Wanita,Gaya Hidup,Dunk Low,M,2.0,4357.79,,0.0,2/27/2025,Ritel,Mumbai,3936.13
+2531.0,Pria,Sepak Bola,Premier III,XL,,,,0.0,9/4/2025,Daring,Hyderabad,2875.41
+2532.0,Pria,Sepak Bola,Tiempo Legend,L,,,,0.0,4/17/2025,Ritel,Bangalore,72.78
+2533.0,Wanita,Latihan,Flex Trainer,L,,,1.02,0.0,1/31/2024,Daring,Mumbai,2155.46
+2534.0,Wanita,Latihan,SuperRep Go,M,,,,0.0,,Daring,Pune,506.26
+2535.0,Pria,Sepak Bola,Tiempo Legend,XL,2.0,2786.84,0.21,4403.21,1/25/2025,Daring,Mumbai,3345.36
+2536.0,Anak,Lari,Air Zoom,M,,2221.78,0.55,0.0,2/10/2024,Ritel,Delhi,-1091.66
+2537.0,Wanita,Gaya Hidup,Waffle One,M,,,,0.0,5/30/2025,Ritel,Bangalore,2596.8
+2538.0,Pria,Gaya Hidup,Waffle One,,2.0,9701.24,,0.0,10/6/2024,Ritel,Kolkata,223.82
+2539.0,Wanita,Lari,Free RN,L,,,,0.0,2/26/2025,Daring,bengaluru,3748.73
+2540.0,Wanita,Gaya Hidup,Air Force 1,L,,8794.64,,0.0,1/9/2025,Daring,Mumbai,-938.07
+2541.0,Anak,Lari,React Infinity,M,,,,0.0,19-05-2025,Ritel,Mumbai,-1180.11
+2542.0,Anak,Lari,React Infinity,XL,,,0.18,0.0,,Ritel,Hyderabad,-1115.89
+2543.0,Wanita,Gaya Hidup,Waffle One,,,,,0.0,,Ritel,Hyd,-244.09
+2544.0,Pria,Latihan,ZoomX Invincible,L,,8856.07,,0.0,,Daring,Bangalore,2069.93
+2545.0,Pria,Latihan,Metcon 7,L,,,,0.0,4/26/2025,Ritel,Bangalore,924.07
+2546.0,Anak,Latihan,ZoomX Invincible,XL,,5179.57,,0.0,3/10/2024,Ritel,Bangalore,2084.99
+2547.0,Wanita,Sepak Bola,Mercurial Superfly,M,1.0,3068.13,,0.0,8/7/2025,Ritel,Kolkata,-586.29
+2548.0,Anak,Lari,Pegasus Turbo,L,,9557.0,,0.0,4/23/2025,Daring,Delhi,3847.47
+2549.0,Pria,Latihan,Flex Trainer,XL,,4366.09,,0.0,,Ritel,Delhi,1696.1
+2550.0,Pria,Sepak Bola,Premier III,XL,1.0,6121.21,0.05,5815.15,9/8/2023,Daring,Kolkata,2470.08
+2551.0,Pria,Latihan,ZoomX Invincible,XL,,,,0.0,,Ritel,Mumbai,853.25
+2552.0,Wanita,Sepak Bola,Premier III,10,1.0,,0.41,0.0,3/5/2025,Ritel,hyderbad,3389.34
+2553.0,Anak,Basket,Kyrie Flytrap,,,6708.16,,0.0,2/24/2025,Daring,Delhi,-739.72
+2554.0,Wanita,Latihan,Flex Trainer,M,1.0,6755.56,,0.0,1/13/2025,Ritel,bengaluru,1002.19
+2555.0,Wanita,Basket,Kyrie Flytrap,7,,2685.95,,0.0,,Ritel,Hyderabad,3675.97
+2556.0,Anak,Gaya Hidup,Air Force 1,10,1.0,,,0.0,,Ritel,Kolkata,1327.26
+2557.0,Pria,Basket,LeBron 20,M,3.0,,,0.0,9/11/2024,Ritel,Kolkata,1115.74
+2558.0,Anak,Basket,Kyrie Flytrap,L,-1.0,3134.87,,0.0,,Daring,Mumbai,-1077.81
+2559.0,Pria,Gaya Hidup,Air Force 1,7,3.0,6011.84,,0.0,2/10/2025,Daring,Kolkata,-99.73
+2560.0,Anak,Basket,Zoom Freak,M,2.0,,,0.0,1/16/2025,Ritel,Delhi,3493.16
+2561.0,Wanita,Sepak Bola,Tiempo Legend,XL,,3642.21,,0.0,3/25/2024,Daring,bengaluru,3900.7
+2562.0,Anak,Latihan,ZoomX Invincible,L,1.0,,,0.0,12/21/2024,Ritel,Mumbai,-79.1
+2563.0,Pria,Sepak Bola,Mercurial Superfly,M,2.0,9443.35,0.54,8687.88,4/13/2025,Ritel,Kolkata,2706.61
+2564.0,Wanita,Basket,LeBron 20,M,,,0.72,0.0,8/7/2023,Daring,Delhi,1279.03
+2565.0,Wanita,Gaya Hidup,Dunk Low,XL,4.0,3028.41,,0.0,9/18/2024,Daring,Mumbai,1754.48
+2029.0,Wanita,Lari,React Infinity,,,7518.66,,0.0,12/16/2024,Ritel,Kolkata,2543.37
+2567.0,Wanita,Lari,Air Zoom,M,3.0,,,0.0,9/15/2024,Daring,Pune,1162.3
+2030.0,Wanita,Sepak Bola,Mercurial Superfly,,,2298.45,,0.0,12/9/2024,Ritel,Kolkata,-240.32
+2569.0,Wanita,Basket,Air Jordan,L,2.0,9605.11,0.88,2305.23,24-08-2024,Daring,hyderbad,128.89
+2570.0,Pria,Basket,Air Jordan,L,,,,0.0,22-03-2025,Daring,bengaluru,2986.69
+2571.0,Anak,Sepak Bola,Phantom GT,6,,4728.95,,0.0,11/28/2023,Ritel,Mumbai,276.98
+2572.0,Pria,Gaya Hidup,Waffle One,XL,-1.0,2729.99,0.76,-655.2,1/31/2024,Ritel,Pune,1204.81
+2573.0,Pria,Sepak Bola,Premier III,,,,0.75,0.0,29-08-2024,Daring,Delhi,301.42
+2574.0,Wanita,Sepak Bola,Tiempo Legend,,,3502.97,,0.0,9/19/2024,Ritel,Delhi,-542.87
+2575.0,Pria,Latihan,Metcon 7,XL,2.0,3582.67,,0.0,7/3/2025,Daring,hyderbad,1982.16
+2576.0,Anak,Lari,Pegasus Turbo,10,,9134.77,,0.0,1/4/2025,Daring,Pune,-427.11
+2577.0,Wanita,Lari,Air Zoom,L,-1.0,5545.52,,0.0,11/16/2023,Ritel,Mumbai,1185.56
+2578.0,Pria,Gaya Hidup,Blazer Mid,9,2.0,,,0.0,5/10/2025,Ritel,bengaluru,3550.0
+2579.0,Anak,Gaya Hidup,Dunk Low,7,3.0,9541.83,,0.0,26-07-2024,Daring,Delhi,589.3
+2580.0,Anak,Latihan,Flex Trainer,M,1.0,2749.79,,0.0,6/12/2024,Ritel,Kolkata,2978.85
+2581.0,Anak,Lari,Free RN,10,0.0,,0.53,0.0,10/30/2024,Daring,Mumbai,800.45
+2582.0,Pria,Latihan,Metcon 7,M,,,,0.0,,Daring,Kolkata,909.76
+2583.0,Pria,Sepak Bola,Tiempo Legend,M,,,,0.0,9/3/2024,Ritel,Mumbai,3051.16
+2584.0,Anak,Lari,React Infinity,M,0.0,,,0.0,,Ritel,Hyd,-123.93
+2585.0,Anak,Basket,Kyrie Flytrap,,,5066.14,1.12,0.0,17-01-2025,Ritel,Kolkata,-148.71
+2586.0,Pria,Lari,Air Zoom,L,,,0.99,0.0,11/24/2024,Daring,Mumbai,1146.73
+2587.0,Wanita,Lari,React Infinity,6,4.0,,0.37,0.0,,Daring,bengaluru,-480.01
+2588.0,Anak,Basket,LeBron 20,M,,,,0.0,19-07-2025,Daring,Pune,2861.32
+2589.0,Pria,Latihan,Metcon 7,M,3.0,,,0.0,9/17/2024,Daring,Kolkata,1429.18
+2590.0,Pria,Sepak Bola,Premier III,XL,,,,0.0,,Ritel,bengaluru,1766.46
+2591.0,Wanita,Latihan,SuperRep Go,,,,,0.0,21-06-2025,Ritel,Kolkata,1261.67
+2592.0,Wanita,Gaya Hidup,Blazer Mid,M,,,,0.0,13-10-2024,Ritel,Mumbai,-907.48
+2593.0,Pria,Gaya Hidup,Dunk Low,L,,8747.18,,0.0,1/4/2025,Ritel,Mumbai,2505.6
+2594.0,Wanita,Latihan,ZoomX Invincible,XL,3.0,7944.34,0.67,7864.9,2/23/2024,Ritel,hyderbad,1534.91
+2595.0,Pria,Basket,LeBron 20,XL,0.0,,,0.0,2/23/2024,Ritel,Delhi,420.27
+2030.0,Pria,Sepak Bola,Mercurial Superfly,M,-1.0,,0.7,0.0,15-03-2025,Daring,Pune,-1193.55
+2597.0,Anak,Lari,Air Zoom,,3.0,3348.83,,0.0,12/5/2024,Daring,Bangalore,-540.08
+2598.0,Wanita,Latihan,Metcon 7,8,,9488.84,,0.0,12/6/2024,Ritel,Bangalore,3505.24
+2599.0,Anak,Latihan,Flex Trainer,12,4.0,,,0.0,,Ritel,hyderbad,-562.31
+2600.0,Anak,Gaya Hidup,Air Force 1,M,3.0,,,0.0,4/11/2024,Daring,Pune,803.62
+2601.0,Wanita,Sepak Bola,Tiempo Legend,XL,1.0,,,0.0,27-09-2024,Ritel,Delhi,3739.4
+2602.0,Anak,Lari,Free RN,XL,2.0,3518.53,,0.0,17-11-2024,Daring,Pune,3494.88
+2603.0,Wanita,Lari,Air Zoom,L,0.0,,,0.0,3/18/2025,Daring,Hyd,-144.08
+2047.0,Pria,Sepak Bola,Phantom GT,,4.0,6136.45,,0.0,12/17/2024,Daring,Kolkata,2790.51
+2605.0,Anak,Gaya Hidup,Dunk Low,,-1.0,7206.45,,0.0,2/1/2025,Daring,bengaluru,-228.84
+2606.0,Wanita,Gaya Hidup,Air Force 1,L,,4040.65,,0.0,6/4/2025,Ritel,Mumbai,805.92
+2607.0,Wanita,Basket,LeBron 20,,,,,0.0,8/31/2023,Daring,Kolkata,3522.02
+2608.0,Wanita,Gaya Hidup,Waffle One,L,2.0,,,0.0,,Daring,Kolkata,354.67
+2609.0,Anak,Sepak Bola,Premier III,M,,9649.28,,0.0,4/26/2025,Daring,bengaluru,2712.88
+2610.0,Wanita,Gaya Hidup,Blazer Mid,M,,8359.07,,0.0,5/6/2025,Daring,Bangalore,167.72
+2033.0,Anak,Sepak Bola,Mercurial Superfly,M,4.0,,,0.0,,Ritel,Pune,2310.9
+2612.0,Wanita,Latihan,Flex Trainer,M,0.0,,,0.0,8/10/2023,Ritel,Mumbai,507.1
+2613.0,Wanita,Gaya Hidup,Waffle One,7,3.0,4374.83,0.27,9580.88,,Ritel,Delhi,1473.37
+2614.0,Wanita,Lari,React Infinity,XL,,2265.0,,0.0,5/8/2024,Ritel,Bangalore,2095.44
+2615.0,Wanita,Sepak Bola,Phantom GT,XL,3.0,3042.37,0.12,8031.86,24-03-2025,Daring,Pune,2105.48
+2616.0,Pria,Gaya Hidup,Waffle One,XL,,,0.2,0.0,6/7/2024,Daring,Kolkata,2788.41
+2617.0,Anak,Sepak Bola,Premier III,XL,0.0,,,0.0,,Daring,Delhi,2772.05
+2618.0,Anak,Gaya Hidup,Dunk Low,XL,,,,0.0,6/23/2025,Ritel,Pune,3718.11
+2619.0,Anak,Gaya Hidup,Waffle One,L,4.0,,0.65,0.0,1/22/2024,Daring,Hyd,-300.28
+2620.0,Anak,Latihan,Flex Trainer,XL,0.0,,,0.0,,Daring,Hyd,3874.67
+2621.0,Anak,Sepak Bola,Phantom GT,L,3.0,6466.57,0.59,7953.88,5/19/2024,Daring,Bangalore,-1152.86
+2622.0,Anak,Gaya Hidup,Blazer Mid,M,,8073.58,,0.0,7/4/2025,Daring,Pune,-82.31
+2623.0,Pria,Lari,Pegasus Turbo,L,,4658.42,,0.0,8/4/2025,Ritel,Mumbai,1622.42
+2624.0,Pria,Gaya Hidup,Blazer Mid,XL,0.0,,,0.0,,Ritel,bengaluru,2085.94
+2625.0,Anak,Latihan,Flex Trainer,M,-1.0,6815.44,,0.0,2/5/2025,Daring,Pune,3874.57
+2626.0,Pria,Lari,Air Zoom,7,,5550.99,,0.0,4/21/2025,Ritel,bengaluru,-757.9
+2627.0,Wanita,Basket,LeBron 20,7,,,,0.0,12/31/2023,Daring,Delhi,282.13
+2628.0,Anak,Basket,Kyrie Flytrap,L,4.0,,0.44,0.0,29-06-2025,Ritel,Pune,-348.88
+2629.0,Anak,Gaya Hidup,Waffle One,XL,,,,0.0,10/23/2024,Ritel,Bangalore,1198.75
+2630.0,Anak,Lari,Pegasus Turbo,,2.0,5846.21,1.02,-233.85,,Daring,Delhi,3880.6
+2631.0,Wanita,Basket,Zoom Freak,,,,,0.0,16-03-2025,Daring,Kolkata,2848.46
+2632.0,Pria,Lari,Pegasus Turbo,L,-1.0,7504.2,0.99,-75.04,3/10/2024,Daring,Pune,2413.42
+2633.0,Anak,Basket,Air Jordan,10,0.0,,0.71,0.0,13-06-2025,Daring,bengaluru,3634.35
+2634.0,Pria,Gaya Hidup,Waffle One,,,5815.75,,0.0,22-08-2024,Ritel,bengaluru,3190.46
+2635.0,Wanita,Lari,React Infinity,M,,3934.22,,0.0,2/28/2024,Daring,Kolkata,430.63
+2636.0,Pria,Basket,LeBron 20,11,,,,0.0,,Daring,bengaluru,3269.14
+2637.0,Anak,Latihan,SuperRep Go,L,,,,0.0,20-04-2025,Ritel,Hyd,3847.48
+2638.0,Pria,Sepak Bola,Premier III,8,1.0,5028.99,,0.0,1/22/2024,Daring,Pune,654.11
+2639.0,Pria,Gaya Hidup,Blazer Mid,XL,,2597.93,,0.0,6/25/2025,Ritel,Pune,374.95
+2640.0,Anak,Latihan,ZoomX Invincible,9,2.0,7900.02,,0.0,2/8/2024,Daring,Bangalore,861.92
+2641.0,Pria,Lari,React Infinity,,,2890.77,,0.0,11/27/2024,Daring,bengaluru,1709.06
+2642.0,Wanita,Gaya Hidup,Air Force 1,XL,,,,0.0,17-05-2025,Ritel,Pune,-785.16
+2643.0,Pria,Sepak Bola,Mercurial Superfly,,,,,0.0,4/17/2025,Ritel,Mumbai,2715.31
+2644.0,Pria,Latihan,SuperRep Go,M,1.0,2640.04,,0.0,,Ritel,bengaluru,1466.96
+2022.0,Anak,Latihan,ZoomX Invincible,L,3.0,,,0.0,27-11-2024,Ritel,Mumbai,689.62
+2646.0,Pria,Sepak Bola,Premier III,XL,1.0,,0.89,0.0,20-10-2024,Ritel,Kolkata,2676.52
+2647.0,Wanita,Basket,Zoom Freak,,4.0,,,0.0,,Daring,Mumbai,747.29
+2648.0,Pria,Lari,React Infinity,L,,3477.49,0.54,0.0,3/6/2025,Ritel,Delhi,3487.39
+2649.0,Wanita,Basket,Kyrie Flytrap,L,,6798.48,1.18,0.0,1/2/2025,Ritel,Mumbai,2297.4
+2650.0,Pria,Gaya Hidup,Blazer Mid,,,,,0.0,8/14/2023,Ritel,Bangalore,3703.68
+2651.0,Anak,Basket,Air Jordan,L,1.0,,,0.0,10/27/2024,Daring,Kolkata,-819.33
+2652.0,Wanita,Basket,Air Jordan,,2.0,,1.08,0.0,10/4/2025,Daring,Delhi,-240.8
+2653.0,Pria,Lari,Pegasus Turbo,M,,6178.85,1.04,0.0,10/12/2024,Daring,Hyderabad,2550.88
+2654.0,Anak,Sepak Bola,Tiempo Legend,M,,,,0.0,7/21/2024,Daring,Bangalore,2933.02
+2655.0,Anak,Latihan,SuperRep Go,10,,4993.94,,0.0,,Ritel,Mumbai,2420.85
+2656.0,Wanita,Sepak Bola,Premier III,M,1.0,5246.43,,0.0,,Ritel,Bangalore,1891.48
+2657.0,Anak,Lari,Air Zoom,M,4.0,,,0.0,4/7/2025,Daring,Delhi,494.45
+2658.0,Wanita,Gaya Hidup,Dunk Low,L,1.0,,,0.0,4/26/2025,Daring,Delhi,155.53
+2659.0,Anak,Basket,LeBron 20,M,,9945.56,1.01,0.0,12/5/2025,Daring,Hyd,-1116.54
+2660.0,Pria,Latihan,Flex Trainer,,,,,0.0,1/11/2024,Ritel,Pune,2519.25
+2661.0,Anak,Sepak Bola,Tiempo Legend,XL,,2006.63,,0.0,,Daring,Delhi,3171.69
+2662.0,Anak,Latihan,SuperRep Go,M,0.0,,,0.0,,Daring,Delhi,2104.46
+2663.0,Anak,Latihan,Metcon 7,L,2.0,,0.43,0.0,17-06-2025,Ritel,Delhi,3174.81
+2664.0,Anak,Lari,Pegasus Turbo,L,2.0,9103.08,,0.0,11/12/2024,Daring,Mumbai,1726.8
+2665.0,Pria,Gaya Hidup,Waffle One,L,,6140.7,,0.0,,Daring,Delhi,506.87
+2666.0,Wanita,Sepak Bola,Phantom GT,M,,3700.75,,0.0,,Daring,Kolkata,-963.73
+2667.0,Wanita,Gaya Hidup,Air Force 1,XL,3.0,9367.66,,0.0,3/23/2025,Daring,Delhi,-623.95
+2668.0,Wanita,Latihan,ZoomX Invincible,M,,,0.45,0.0,12/20/2024,Ritel,Bangalore,3138.32
+2669.0,Wanita,Latihan,Flex Trainer,XL,,,0.51,0.0,,Ritel,Pune,1737.23
+2027.0,Pria,Sepak Bola,Premier III,12,4.0,7204.01,,0.0,6/15/2025,Ritel,Delhi,3951.42
+2671.0,Anak,Lari,Air Zoom,XL,,9264.49,,0.0,26-06-2025,Ritel,Pune,491.18
+2672.0,Wanita,Gaya Hidup,Air Force 1,XL,2.0,,,0.0,8/4/2024,Daring,Mumbai,67.58
+2673.0,Anak,Lari,Pegasus Turbo,11,,6891.25,0.63,0.0,,Ritel,Pune,-742.85
+2674.0,Wanita,Gaya Hidup,Waffle One,7,-1.0,4784.45,,0.0,1/25/2025,Daring,Pune,3357.12
+2675.0,Wanita,Sepak Bola,Premier III,12,3.0,,,0.0,4/4/2025,Daring,Hyderabad,2731.71
+2676.0,Pria,Lari,Air Zoom,10,,,,0.0,5/13/2025,Daring,Delhi,3932.36
+2677.0,Pria,Gaya Hidup,Air Force 1,M,2.0,5618.62,,0.0,,Ritel,bengaluru,1745.96
+2678.0,Anak,Lari,Pegasus Turbo,,0.0,4240.24,1.21,0.0,6/11/2024,Ritel,Pune,3483.11
+2679.0,Pria,Latihan,Flex Trainer,M,,2758.08,0.04,0.0,7/5/2024,Daring,Bangalore,2447.58
+2680.0,Anak,Latihan,Metcon 7,,,,,0.0,21-07-2025,Ritel,Pune,1044.98
+2681.0,Wanita,Lari,Pegasus Turbo,8,,5996.09,,0.0,,Daring,Delhi,3597.08
+2682.0,Pria,Basket,LeBron 20,XL,4.0,,0.41,0.0,28-08-2024,Ritel,Pune,3614.76
+2683.0,Anak,Gaya Hidup,Dunk Low,XL,1.0,,,0.0,12/6/2025,Daring,Mumbai,1119.71
+2684.0,Pria,Gaya Hidup,Blazer Mid,L,0.0,,0.73,0.0,11/4/2025,Ritel,Mumbai,1556.61
+2685.0,Anak,Gaya Hidup,Dunk Low,M,4.0,,,0.0,5/22/2025,Ritel,Hyderabad,1377.72
+2686.0,Wanita,Gaya Hidup,Blazer Mid,L,,9585.39,1.03,0.0,7/3/2025,Ritel,Hyderabad,761.26
+2687.0,Wanita,Gaya Hidup,Waffle One,8,-1.0,2381.94,,0.0,30-09-2024,Ritel,Delhi,1457.93
+2031.0,Wanita,Sepak Bola,Phantom GT,L,,,,0.0,7/12/2024,Daring,Mumbai,3119.37
+2689.0,Wanita,Basket,LeBron 20,,,5260.17,,0.0,1/28/2025,Ritel,Mumbai,1402.81
+2690.0,Anak,Latihan,Metcon 7,6,,,,0.0,11/21/2024,Daring,Mumbai,1125.71
+2042.0,Pria,Lari,Air Zoom,,,,0.8,0.0,,Daring,Delhi,-151.26
+2692.0,Wanita,Latihan,Metcon 7,XL,,,0.47,0.0,6/2/2024,Daring,Bangalore,2528.27
+2693.0,Anak,Latihan,ZoomX Invincible,10,,,,0.0,5/11/2025,Daring,Bangalore,262.12
+2694.0,Wanita,Latihan,Metcon 7,M,,,,0.0,7/25/2024,Daring,hyderbad,-249.45
+2695.0,Pria,Basket,Air Jordan,L,-1.0,,,0.0,12/10/2024,Daring,hyderbad,3234.28
+2696.0,Wanita,Gaya Hidup,Blazer Mid,L,,,1.0,0.0,11/22/2024,Daring,Mumbai,66.43
+2697.0,Pria,Basket,Air Jordan,M,-1.0,,0.09,0.0,6/25/2025,Daring,Delhi,681.86
+2698.0,Pria,Basket,LeBron 20,XL,,,0.02,0.0,,Ritel,Mumbai,1680.5
+2699.0,Pria,Gaya Hidup,Dunk Low,XL,0.0,,,0.0,2/21/2025,Daring,Mumbai,1052.65
+2700.0,Anak,Latihan,Metcon 7,XL,0.0,,0.48,0.0,7/11/2025,Ritel,bengaluru,1423.83
+2701.0,Pria,Latihan,SuperRep Go,XL,,,,0.0,11/29/2024,Daring,Delhi,2007.01
+2702.0,Pria,Basket,Kyrie Flytrap,XL,0.0,,,0.0,12/16/2024,Daring,Pune,687.32
+2703.0,Anak,Lari,Pegasus Turbo,L,,5214.32,,0.0,6/24/2025,Daring,Kolkata,-637.13
+2704.0,Wanita,Basket,LeBron 20,L,,5094.43,,0.0,,Daring,Hyd,1765.36
+2705.0,Pria,Lari,Pegasus Turbo,,,,,0.0,1/7/2024,Ritel,Pune,-37.88
+2706.0,Wanita,Latihan,ZoomX Invincible,XL,0.0,,,0.0,8/5/2025,Ritel,Kolkata,3153.1
+2707.0,Pria,Lari,Free RN,XL,,2996.2,0.49,0.0,,Daring,Hyderabad,2913.41
+2708.0,Anak,Basket,Kyrie Flytrap,L,,4523.72,,0.0,10/14/2024,Daring,hyderbad,-237.9
+2709.0,Anak,Lari,Free RN,10,1.0,6302.98,0.48,3277.55,3/8/2025,Ritel,Delhi,2835.93
+2710.0,Wanita,Gaya Hidup,Blazer Mid,M,2.0,4669.75,,0.0,,Ritel,Bangalore,-987.12
+2711.0,Pria,Sepak Bola,Mercurial Superfly,7,2.0,,,0.0,,Daring,Delhi,756.18
+2712.0,Wanita,Lari,Pegasus Turbo,XL,,,,0.0,7/22/2024,Ritel,Delhi,3024.11
+2713.0,Pria,Gaya Hidup,Air Force 1,L,1.0,7877.36,0.55,3544.81,5/10/2025,Ritel,Kolkata,3663.49
+2026.0,Wanita,Lari,Air Zoom,,,2491.06,,0.0,4/9/2024,Ritel,Bangalore,1660.44
+2715.0,Anak,Basket,LeBron 20,L,0.0,,1.07,0.0,6/13/2025,Daring,Kolkata,-1164.37
+2716.0,Anak,Latihan,SuperRep Go,M,0.0,4830.96,,0.0,17-11-2024,Daring,Pune,1344.73
+2717.0,Pria,Lari,Free RN,M,0.0,9473.09,,0.0,17-11-2024,Daring,Delhi,3055.36
+2718.0,Pria,Basket,LeBron 20,7,,8485.23,,0.0,,Ritel,bengaluru,637.62
+2719.0,Wanita,Latihan,Metcon 7,,,4819.76,,0.0,3/22/2024,Ritel,Kolkata,2066.12
+2720.0,Anak,Latihan,ZoomX Invincible,M,,,,0.0,,Ritel,Delhi,2548.78
+2721.0,Anak,Latihan,Flex Trainer,L,0.0,,,0.0,11/11/2023,Daring,Bangalore,1275.23
+2722.0,Wanita,Gaya Hidup,Dunk Low,L,0.0,,0.09,0.0,9/30/2024,Daring,Kolkata,818.65
+2723.0,Wanita,Gaya Hidup,Dunk Low,XL,,3403.54,,0.0,3/10/2025,Daring,Kolkata,221.41
+2724.0,Wanita,Latihan,Flex Trainer,L,,8007.22,,0.0,1/16/2025,Daring,Delhi,1190.2
+2012.0,Pria,Gaya Hidup,Dunk Low,XL,,2174.89,,0.0,,Ritel,Kolkata,-406.38
+2726.0,Wanita,Latihan,Flex Trainer,,,,0.48,0.0,8/19/2024,Ritel,Pune,1392.27
+2727.0,Pria,Gaya Hidup,Waffle One,M,,6154.32,0.94,0.0,,Daring,Kolkata,2004.4
+2018.0,Anak,Sepak Bola,Tiempo Legend,L,,,,0.0,15-02-2025,Ritel,bengaluru,-701.28
+2729.0,Anak,Latihan,Flex Trainer,,,6383.55,,0.0,4/29/2025,Ritel,Delhi,2079.06
+2730.0,Wanita,Gaya Hidup,Dunk Low,,1.0,,,0.0,,Daring,hyderbad,2140.93
+2731.0,Anak,Gaya Hidup,Dunk Low,M,3.0,,,0.0,28-03-2025,Daring,Kolkata,3961.27
+2732.0,Wanita,Latihan,SuperRep Go,M,0.0,3402.8,,0.0,3/1/2025,Daring,Hyderabad,1045.5
+2733.0,Wanita,Lari,Free RN,L,,6743.38,,0.0,11/22/2024,Daring,Pune,1908.63
+2734.0,Wanita,Sepak Bola,Tiempo Legend,,-1.0,,,0.0,7/10/2025,Daring,Bangalore,1229.08
+2735.0,Anak,Lari,Free RN,XL,,,,0.0,8/5/2024,Daring,Kolkata,928.63
+2736.0,Pria,Sepak Bola,Tiempo Legend,,,,0.49,0.0,2/22/2025,Ritel,Delhi,3042.49
+2737.0,Anak,Basket,Kyrie Flytrap,XL,,,,0.0,9/10/2024,Ritel,Mumbai,144.37
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
